@@ -1,5 +1,7 @@
 # BITCOIN_CALENDAR
-Calendario bitcoin in lingua italiana, progetto compatibile con gestori di calendari. File in fomato .txt e .ics
+Calendario bitcoin in lingua italiana, progetto compatibile con gestori di calendari. 
+File in fomato .txt e .ics
+
 Progetto di divulgazione Bitcoin per appassionati e/o esperti del settore. E' gradito il supporto di tutti.
 ***
 ## Motivazioni & finalità: 
