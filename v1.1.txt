@@ -1,0 +1,2037 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CALENDARIO BITCOIN 
+X-WR-TIMEZONE:Europe/Rome
+X-WR-CALDESC:https://github.com/Cmod777/BITCOIN_CALENDAR
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220328
+DTEND;VALUE=DATE:20220329
+DTSTAMP:20220307T200522Z
+UID:4dm75ogpvtpsv77t08othqo16p@google.com
+CREATED:20220221T201247Z
+DESCRIPTION:IL 28 MARZO 2013 BITCOIN CAPITALIZZA UN TOTALE DI 1 MILIARDO DI
+  DOLLARI AMERICANI
+LAST-MODIFIED:20220221T211102Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:1 MILIARDO #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220109
+DTEND;VALUE=DATE:20220110
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:0bmqq65ht3s64dim12tqo4u8v3@google.com
+CREATED:20220221T200605Z
+DESCRIPTION:RILASCIO UFFICIALE DELLA PRIMA VERSIONE BITCOIN CORE V0.1 IL 9 
+ GENNAIO 2009
+LAST-MODIFIED:20220221T211205Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BITCOIN V0.1 #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230109
+DTEND;VALUE=DATE:20230110
+DTSTAMP:20220307T200522Z
+UID:0bmqq65ht3s64dim12tqo4u8v3@google.com
+RECURRENCE-ID;VALUE=DATE:20230109
+CREATED:20220221T200605Z
+DESCRIPTION:RILASCIO UFFICIALE DELLA PRIMA VERSIONE BITCOIN CORE V0.1 IL 9 
+ GENNAIO 2009
+LAST-MODIFIED:20220221T211205Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BITCOIN V0.1 #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220717
+DTEND;VALUE=DATE:20220718
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:2qmc6cvunaq7mgj7jd5qe7vdat@google.com
+CREATED:20220221T202329Z
+DESCRIPTION:IL 17 LUGLIO 2010 NASCE MT.GOX\, PRIMO EXCHANGE PER BITCOIN
+LAST-MODIFIED:20220221T211317Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NASCE MT.GOX #tecnologia #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230717
+DTEND;VALUE=DATE:20230718
+DTSTAMP:20220307T200522Z
+UID:2qmc6cvunaq7mgj7jd5qe7vdat@google.com
+RECURRENCE-ID;VALUE=DATE:20230717
+CREATED:20220221T202329Z
+DESCRIPTION:IL 17 LUGLIO 2010 NASCE MT.GOX\, PRIMO EXCHANGE PER BITCOIN
+LAST-MODIFIED:20220221T211317Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NASCE MT.GOX #tecnologia #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220914
+DTEND;VALUE=DATE:20220915
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:7ft0qdrc5ptocat1jageddahig@google.com
+CREATED:20220221T202505Z
+DESCRIPTION:14 SETTEMBRE 2021 CAMBIA LA NUMERAZIONE UFFICIALE DELLE RELEASE
+  DI BITCOIN CORE PASSANDO DA V0.21 A V22.0
+LAST-MODIFIED:20220221T211343Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:V22.0 #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230914
+DTEND;VALUE=DATE:20230915
+DTSTAMP:20220307T200522Z
+UID:7ft0qdrc5ptocat1jageddahig@google.com
+RECURRENCE-ID;VALUE=DATE:20230914
+CREATED:20220221T202505Z
+DESCRIPTION:14 SETTEMBRE 2021 CAMBIA LA NUMERAZIONE UFFICIALE DELLE RELEASE
+  DI BITCOIN CORE PASSANDO DA V0.21 A V22.0
+LAST-MODIFIED:20220221T211343Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:V22.0 #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221005
+DTEND;VALUE=DATE:20221006
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:7laq94vi506o3h0qmv60b3n23h@google.com
+CREATED:20220221T202534Z
+DESCRIPTION:5 OTTOBRE 2009 PRIMO CAMBIO UFFICIALE 1 USD = 1.309 BTC
+LAST-MODIFIED:20220221T211353Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BTC/USD #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231005
+DTEND;VALUE=DATE:20231006
+DTSTAMP:20220307T200522Z
+UID:7laq94vi506o3h0qmv60b3n23h@google.com
+RECURRENCE-ID;VALUE=DATE:20231005
+CREATED:20220221T202534Z
+DESCRIPTION:5 OTTOBRE 2009 PRIMO CAMBIO UFFICIALE 1 USD = 1.309 BTC
+LAST-MODIFIED:20220221T211353Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BTC/USD #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221028
+DTEND;VALUE=DATE:20221029
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:7jn2m8n52geasfucm2matdn4t6@google.com
+CREATED:20220221T202742Z
+DESCRIPTION:29 OTTOBRE 2013 PRIMO ATM BITCOIN PRODOTTO DA ROBOCOIN & BITCOI
+ NIACS
+LAST-MODIFIED:20220221T211411Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ATM #tecnologia #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231028
+DTEND;VALUE=DATE:20231029
+DTSTAMP:20220307T200522Z
+UID:7jn2m8n52geasfucm2matdn4t6@google.com
+RECURRENCE-ID;VALUE=DATE:20231028
+CREATED:20220221T202742Z
+DESCRIPTION:29 OTTOBRE 2013 PRIMO ATM BITCOIN PRODOTTO DA ROBOCOIN & BITCOI
+ NIACS
+LAST-MODIFIED:20220221T211411Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ATM #tecnologia #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221101
+DTEND;VALUE=DATE:20221102
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:1pjo0angodjrqqcrh1nldug0ae@google.com
+CREATED:20220221T203213Z
+DESCRIPTION:IL COMITATO UNICODE ADOTTA IL SIMBOLO DI VALUTA BITCOIN\, AL GL
+ IFO VIENE ASSEGNATO LO SLOT "U+20BF BITCOIN SIGN"
+LAST-MODIFIED:20220221T211459Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:UNICODE #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231101
+DTEND;VALUE=DATE:20231102
+DTSTAMP:20220307T200522Z
+UID:1pjo0angodjrqqcrh1nldug0ae@google.com
+RECURRENCE-ID;VALUE=DATE:20231101
+CREATED:20220221T203213Z
+DESCRIPTION:IL COMITATO UNICODE ADOTTA IL SIMBOLO DI VALUTA BITCOIN\, AL GL
+ IFO VIENE ASSEGNATO LO SLOT "U+20BF BITCOIN SIGN"
+LAST-MODIFIED:20220221T211459Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:UNICODE #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221207
+DTEND;VALUE=DATE:20221208
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:68ji1bi855usdqdnj3t55nvk2k@google.com
+CREATED:20220221T203824Z
+DESCRIPTION:7 DICEMBRE 2010 AVVIENE LA PRIMA TRANSAZIONE BITCOIN SU DISPOSI
+ TIVI MOBILI
+LAST-MODIFIED:20220221T211540Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BTC MOBILE #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231207
+DTEND;VALUE=DATE:20231208
+DTSTAMP:20220307T200522Z
+UID:68ji1bi855usdqdnj3t55nvk2k@google.com
+RECURRENCE-ID;VALUE=DATE:20231207
+CREATED:20220221T203824Z
+DESCRIPTION:7 DICEMBRE 2010 AVVIENE LA PRIMA TRANSAZIONE BITCOIN SU DISPOSI
+ TIVI MOBILI
+LAST-MODIFIED:20220221T211540Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BTC MOBILE #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221212
+DTEND;VALUE=DATE:20221213
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:4fprumogf4r6q1pia6ue8o90gg@google.com
+CREATED:20220221T203906Z
+DESCRIPTION:12 DICEMBRE 2011\, LA TRANSAZIONE BITCOIN CON LE COMMISSIONI PI
+ U' ALTE\, 171 BTC AL BLOCCO 157235
+LAST-MODIFIED:20220221T211549Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:171 BTC #tecnologia #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231212
+DTEND;VALUE=DATE:20231213
+DTSTAMP:20220307T200522Z
+UID:4fprumogf4r6q1pia6ue8o90gg@google.com
+RECURRENCE-ID;VALUE=DATE:20231212
+CREATED:20220221T203906Z
+DESCRIPTION:12 DICEMBRE 2011\, LA TRANSAZIONE BITCOIN CON LE COMMISSIONI PI
+ U' ALTE\, 171 BTC AL BLOCCO 157235
+LAST-MODIFIED:20220221T211549Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:171 BTC #tecnologia #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221216
+DTEND;VALUE=DATE:20221217
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:17u3h1g4p3jt276ecaqr352qk6@google.com
+CREATED:20220221T203935Z
+DESCRIPTION:16 DICEMBRE 2009 LANCIO DELLA VERSIONE V0.2
+LAST-MODIFIED:20220221T211557Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:V0.2 #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231216
+DTEND;VALUE=DATE:20231217
+DTSTAMP:20220307T200522Z
+UID:17u3h1g4p3jt276ecaqr352qk6@google.com
+RECURRENCE-ID;VALUE=DATE:20231216
+CREATED:20220221T203935Z
+DESCRIPTION:16 DICEMBRE 2009 LANCIO DELLA VERSIONE V0.2
+LAST-MODIFIED:20220221T211557Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:V0.2 #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220907
+DTEND;VALUE=DATE:20220908
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:45ov0kefvi95k44t9tnggube8s@google.com
+CREATED:20220221T202431Z
+DESCRIPTION:7 SETTEMBRE 2021 EL SALVADOR DAY\, PRIMO STATO AL MONDO CON BIT
+ COIN LEGAL TENDER<br><br>ALLEGATI:<br><ul><li>PDF e JPG di "DIARIO EL SALVA
+ DOR" del giorno 7.9.21 anche in HD da stampare</li></ul>
+LAST-MODIFIED:20220225T144931Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:EL SALVADOR #politica #economia 
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=diario el salvador bitcoin.jpg;FMTTYPE=image/jpeg:https://d
+ rive.google.com/open?id=1Tk-n9JgvZJSbrh6jqRv25hhsFAaZXIxO&authuser=0
+ATTACH;FILENAME=diario el salvador bitcoin 40x50 cm.pdf;FMTTYPE=application
+ /pdf:https://drive.google.com/open?id=1r9rqM1Bd1UPmW_EYTS0Vy6XlkXUmdzu_&aut
+ huser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230907
+DTEND;VALUE=DATE:20230908
+DTSTAMP:20220307T200522Z
+UID:45ov0kefvi95k44t9tnggube8s@google.com
+RECURRENCE-ID;VALUE=DATE:20230907
+CREATED:20220221T202431Z
+DESCRIPTION:7 SETTEMBRE 2021 EL SALVADOR DAY\, PRIMO STATO AL MONDO CON BIT
+ COIN LEGAL TENDER<br><br>ALLEGATI:<br><ul><li>PDF e JPG di "DIARIO EL SALVA
+ DOR" del giorno 7.9.21 anche in HD da stampare</li></ul>
+LAST-MODIFIED:20220225T144931Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:EL SALVADOR #politica #economia 
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=diario el salvador bitcoin.jpg;FMTTYPE=image/jpeg:https://d
+ rive.google.com/open?id=1Tk-n9JgvZJSbrh6jqRv25hhsFAaZXIxO&authuser=0
+ATTACH;FILENAME=diario el salvador bitcoin 40x50 cm.pdf;FMTTYPE=application
+ /pdf:https://drive.google.com/open?id=1r9rqM1Bd1UPmW_EYTS0Vy6XlkXUmdzu_&aut
+ huser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220103
+DTEND;VALUE=DATE:20220104
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:70tl6rnjm996s6o9jiiu6uabi5@google.com
+CREATED:20220221T200419Z
+DESCRIPTION:<html-blob>The Times 03/Jan/2009 Chancellor on brink of second 
+ bailout for banks<br>wiki <a href="https://en.bitcoin.it/wiki/Genesis_block
+ ">https://en.bitcoin.it/wiki/Genesis_block</a><br>explorer <a href="https:/
+ /tinyurl.com/2p8v52x6">https://tinyurl.com/2p8v52x6</a></html-blob><br><br>
+ IN ALLEGATO:<br><ul><li>IMMAGINE JPG HD "the Times 3.1.09" da stampare</li>
+ <li>IMMAGINE Bitcoin Genesis Block</li></ul>
+LAST-MODIFIED:20220225T145144Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GENESIS BLOCK #tecnologia #economia #politica  
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=transazioni-op-return-01.jpg;FMTTYPE=image/jpeg:https://dri
+ ve.google.com/open?id=1HxqcY4HHL-VZSupENa4GcMYERsUIJbV-&authuser=0
+ATTACH;FILENAME=Bitcoin-Genesis-block.jpg;FMTTYPE=image/jpeg:https://drive.
+ google.com/open?id=1NtJfvMMHOym0m8CLPrHk4xn-Fqk4Ntvo&authuser=0
+ATTACH;FILENAME=the times jan 3rd 2009.jpg;FMTTYPE=image/jpeg:https://drive
+ .google.com/open?id=19g0X4QLVxAuHiVRS1-Qyl6PE-Ldo7PF_&authuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230103
+DTEND;VALUE=DATE:20230104
+DTSTAMP:20220307T200522Z
+UID:70tl6rnjm996s6o9jiiu6uabi5@google.com
+RECURRENCE-ID;VALUE=DATE:20230103
+CREATED:20220221T200419Z
+DESCRIPTION:<html-blob>The Times 03/Jan/2009 Chancellor on brink of second 
+ bailout for banks<br>wiki <a href="https://en.bitcoin.it/wiki/Genesis_block
+ ">https://en.bitcoin.it/wiki/Genesis_block</a><br>explorer <a href="https:/
+ /tinyurl.com/2p8v52x6">https://tinyurl.com/2p8v52x6</a></html-blob><br><br>
+ IN ALLEGATO:<br><ul><li>IMMAGINE JPG HD "the Times 3.1.09" da stampare</li>
+ <li>IMMAGINE Bitcoin Genesis Block</li></ul>
+LAST-MODIFIED:20220225T145144Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GENESIS BLOCK #tecnologia #economia #politica  
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=transazioni-op-return-01.jpg;FMTTYPE=image/jpeg:https://dri
+ ve.google.com/open?id=1HxqcY4HHL-VZSupENa4GcMYERsUIJbV-&authuser=0
+ATTACH;FILENAME=Bitcoin-Genesis-block.jpg;FMTTYPE=image/jpeg:https://drive.
+ google.com/open?id=1NtJfvMMHOym0m8CLPrHk4xn-Fqk4Ntvo&authuser=0
+ATTACH;FILENAME=the times jan 3rd 2009.jpg;FMTTYPE=image/jpeg:https://drive
+ .google.com/open?id=19g0X4QLVxAuHiVRS1-Qyl6PE-Ldo7PF_&authuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240103
+DTEND;VALUE=DATE:20240104
+DTSTAMP:20220307T200522Z
+UID:70tl6rnjm996s6o9jiiu6uabi5@google.com
+RECURRENCE-ID;VALUE=DATE:20240103
+CREATED:20220221T200419Z
+DESCRIPTION:<html-blob>The Times 03/Jan/2009 Chancellor on brink of second 
+ bailout for banks<br>wiki <a href="https://en.bitcoin.it/wiki/Genesis_block
+ ">https://en.bitcoin.it/wiki/Genesis_block</a><br>explorer <a href="https:/
+ /tinyurl.com/2p8v52x6">https://tinyurl.com/2p8v52x6</a></html-blob><br><br>
+ IN ALLEGATO:<br><ul><li>IMMAGINE JPG HD "the Times 3.1.09" da stampare</li>
+ <li>IMMAGINE Bitcoin Genesis Block</li></ul>
+LAST-MODIFIED:20220225T145144Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GENESIS BLOCK #tecnologia #economia #politica  
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=transazioni-op-return-01.jpg;FMTTYPE=image/jpeg:https://dri
+ ve.google.com/open?id=1HxqcY4HHL-VZSupENa4GcMYERsUIJbV-&authuser=0
+ATTACH;FILENAME=Bitcoin-Genesis-block.jpg;FMTTYPE=image/jpeg:https://drive.
+ google.com/open?id=1NtJfvMMHOym0m8CLPrHk4xn-Fqk4Ntvo&authuser=0
+ATTACH;FILENAME=the times jan 3rd 2009.jpg;FMTTYPE=image/jpeg:https://drive
+ .google.com/open?id=19g0X4QLVxAuHiVRS1-Qyl6PE-Ldo7PF_&authuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220112
+DTEND;VALUE=DATE:20220113
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:4cn1pq8boqj6umeutt5lvut0ki@google.com
+CREATED:20220221T200806Z
+DESCRIPTION:<html-blob><u></u>Questa transazione rappresenta il primo trasf
+ erimento in assoluto di bitcoin da una persona all'altra. Ha anche l'ulteri
+ ore particolarità di essere uno degli unici trasferimenti conosciuti di bit
+ coin da Satoshi Nakamoto\, in questo caso inviando bitcoin a Hal Finney com
+ e test<br>LINK EXPLORER&nbsp\;=&nbsp\;<a href="https://bit.ly/36M6cI4" id="
+ ow1058" __is_owner="true">https://bit.ly/36M6cI4</a><u></u><br><br>Questo b
+ locco arriva 9 giorni dopo il blocco di genesi ed è il primo a contenere un
+  trasferimento di bitcoin.&nbsp\;Prima di questo blocco tutti i blocchi con
+ tenevano solo transazioni coinbase\, che coniavano nuovi bitcoin.</html-blo
+ b>
+LAST-MODIFIED:20220226T202052Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PRIMA TRANSAZIONE BITCOIN #tecnologia #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230112
+DTEND;VALUE=DATE:20230113
+DTSTAMP:20220307T200522Z
+UID:4cn1pq8boqj6umeutt5lvut0ki@google.com
+RECURRENCE-ID;VALUE=DATE:20230112
+CREATED:20220221T200806Z
+DESCRIPTION:<html-blob><u></u>Questa transazione rappresenta il primo trasf
+ erimento in assoluto di bitcoin da una persona all'altra. Ha anche l'ulteri
+ ore particolarità di essere uno degli unici trasferimenti conosciuti di bit
+ coin da Satoshi Nakamoto\, in questo caso inviando bitcoin a Hal Finney com
+ e test<br>LINK EXPLORER&nbsp\;=&nbsp\;<a href="https://bit.ly/36M6cI4" id="
+ ow1058" __is_owner="true">https://bit.ly/36M6cI4</a><u></u><br><br>Questo b
+ locco arriva 9 giorni dopo il blocco di genesi ed è il primo a contenere un
+  trasferimento di bitcoin.&nbsp\;Prima di questo blocco tutti i blocchi con
+ tenevano solo transazioni coinbase\, che coniavano nuovi bitcoin.</html-blo
+ b>
+LAST-MODIFIED:20220226T202052Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PRIMA TRANSAZIONE BITCOIN #tecnologia #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220224
+DTEND;VALUE=DATE:20220225
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:5aileaeuinh0tjf74iiqokeuvu@google.com
+CREATED:20220221T201201Z
+DESCRIPTION:<html-blob><u></u><u></u>24 FEBBRAIO 2014 L' EXCHANGE MT. GOX D
+ ICHIARA FALLIMENTO DOPO LA DENUNCIA DI UN FURTO DI 744.000 BITCOIN<br><a hr
+ ef="https://cryptonomist.ch/2019/06/09/mt-gox-la-storia/" id="ow1279" __is_
+ owner="true">LINK CRYPTONOMIST</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3p
+ kszKY" id="ow1269" __is_owner="true">https://bit.ly/3pkszKY</a><br><u><a hr
+ ef="https://www.wired.it/attualita/tech/2014/02/26/mt-gox-fine-bitcoin/" id
+ ="ow1259" __is_owner="true">LINK WIRED</a>&nbsp\;=&nbsp\;</u><a href="https
+ ://bit.ly/3HpvdW9">https://bit.ly/3HpvdW9</a><br><a href="https://it.wikipe
+ dia.org/wiki/Mt._Gox" id="ow1292" __is_owner="true">LINK WIKIPEDIA</a>&nbsp
+ \;=&nbsp\;<a href="https://bit.ly/3BTyN9M" id="ow1331" __is_owner="true">ht
+ tps://bit.ly/3BTyN9M</a><u></u><br><br><a href="https://bitcoinmagazine.com
+ /culture/mt-gox-bitcoin-hack-teaches-us-today" id="ow1302" __is_owner="true
+ ">LINK BITCOIN MAGAZINE</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/33WtYzX" 
+ id="ow1335" __is_owner="true">https://bit.ly/33WtYzX</a> (fonte:&nbsp\;<a h
+ ref="https://twitter.com/DocumentingBTC">https://twitter.com/DocumentingBTC
+ </a>&nbsp\;)<br><a href="https://it.scribd.com/doc/209050732/MtGox-Situatio
+ n-Crisis-Strategy-Draft" id="ow1339" __is_owner="true">LINK DOCUMENTO INTER
+ NO MT. GOX</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3IsMoHJ">https://bit.l
+ y/3IsMoHJ</a>&nbsp\;*per leggere l'intero documento è necessaria la registr
+ azione<br><br>(si ringrazia: <a href="https://twitter.com/Carlomrtz">https:
+ //twitter.com/Carlomrtz</a> per gli aggiornamenti e la citazione delle font
+ i)<u></u></html-blob>
+LAST-MODIFIED:20220226T202502Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:FALLIMENTO MT. GOX #tecnologia #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220311
+DTEND;VALUE=DATE:20220312
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:4qv4d7nc3adp63spnrg61uqd9b@google.com
+CREATED:20220222T213813Z
+DESCRIPTION:<html-blob><u></u>11.03.2020<br><br>Molti milioni di USD trasfe
+ riti per una commissione qualche dollaro (prezzi 2020).<br><br><a href="htt
+ ps://blockstream.info/tx/eeea72f5c9fe07178013eac84c3705443321d5453befd7591f
+ 52d22ac39b3963" id="ow1551" __is_owner="true">LINK EXPLORER</a>&nbsp\;=&nbs
+ p\;<a href="https://bit.ly/3BTOsWK" id="ow1562" __is_owner="true">https://b
+ it.ly/3BTOsWK</a><u></u></html-blob>
+LAST-MODIFIED:20220226T202616Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MILIONI A POCHI DOLLARI #economia #tecnologia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220324
+DTEND;VALUE=DATE:20220325
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:49dnevisffej4ajmabgtf8jsfh@google.com
+CREATED:20220222T202959Z
+DESCRIPTION:<html-blob>24.03.2013<br>Questo blocco è stato l'ultimo blocco 
+ "Versione 1" estratto.&nbsp\;<a href="https://github.com/bitcoin/bips/blob/
+ master/bip-0034.mediawiki" id="ow1729" __is_owner="true">BIP-34</a>&nbsp\;(
+ LINK = <a href="https://bit.ly/3JY9Gp5" id="ow1739" __is_owner="true">https
+ ://bit.ly/3JY9Gp5</a>) ha definito i blocchi "Versione 2" e il soft fork "b
+ ip34" è stato ufficialmente attivato in 96 blocchi dopo questo\, nel blocco
+  n .&nbsp\;<a href="https://blockstream.info/block/000000000000024b89b42a94
+ 2fe0d9fea3bb44ab7bd1b19115dd6a759c0808b8" id="ow1743" __is_owner="true">227
+ \,931</a>&nbsp\;(LINK =&nbsp\;<a href="https://bit.ly/3Ir6qSV" id="ow1753" 
+ __is_owner="true">https://bit.ly/3Ir6qSV</a>)</html-blob>
+LAST-MODIFIED:20220226T202738Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LAST V.01 BLOCK #tecnologia #economia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220511
+DTEND;VALUE=DATE:20220512
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:1otmj0lm1s1gmvec8pn45bdkgt@google.com
+CREATED:20220221T201714Z
+DESCRIPTION:<html-blob>L'11 MAGGIO 2020 AVVIENE IL TERZO HALVING<br>First b
+ lock of subsidy era #4 (6.25 BTC)<br><a href="https://blockstream.info/bloc
+ k/000000000000000000024bead8df69990852c202db0e0097c1a12ea637d7e96d" id="ow2
+ 457" __is_owner="true">LINK EXPLORER</a>&nbsp\;=&nbsp\;<a href="https://bit
+ .ly/3soIr11" id="ow2467" __is_owner="true">https://bit.ly/3soIr11</a></html
+ -blob>
+LAST-MODIFIED:20220226T202953Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TERZO HALVING #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230511
+DTEND;VALUE=DATE:20230512
+DTSTAMP:20220307T200522Z
+UID:1otmj0lm1s1gmvec8pn45bdkgt@google.com
+RECURRENCE-ID;VALUE=DATE:20230511
+CREATED:20220221T201714Z
+DESCRIPTION:<html-blob>L'11 MAGGIO 2020 AVVIENE IL TERZO HALVING<br>First b
+ lock of subsidy era #4 (6.25 BTC)<br><a href="https://blockstream.info/bloc
+ k/000000000000000000024bead8df69990852c202db0e0097c1a12ea637d7e96d" id="ow2
+ 457" __is_owner="true">LINK EXPLORER</a>&nbsp\;=&nbsp\;<a href="https://bit
+ .ly/3soIr11" id="ow2467" __is_owner="true">https://bit.ly/3soIr11</a></html
+ -blob>
+LAST-MODIFIED:20220226T202953Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TERZO HALVING #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220511
+DTEND;VALUE=DATE:20220512
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:5puu07i7m9c93r434dd8kg9np4@google.com
+CREATED:20220221T202114Z
+DESCRIPTION:<html-blob>11.5.2020 block 629\,999 <a href="https://blockstrea
+ m.info/block/0000000000000000000d656be18bb095db1b23bd797266b0ac3ba720b1962b
+ 1e" id="ow1959" __is_owner="true">LINK EXPLORER</a>&nbsp\;=&nbsp\;<a href="
+ https://bit.ly/3vubdz4">https://bit.ly/3vubdz4</a><br><br>Con il messaggio 
+ di coinbase "Times 09/Apr/2020 With $2.3T Injection\, Fed's Plan Far Exceed
+ s 2008 Rescue"\, questo blocco finale dell'era n. 3 (12\,5 BTC) riecheggia 
+ l'invito all'azione spirituale del blocco genesi di Satoshi<br><br>Usa il c
+ onvertitore HEX to TEXT per leggere il messaggio della coinbase <a href="ht
+ tp://www.unit-conversion.info/texttools/hexadecimal/" id="ow1969" __is_owne
+ r="true">LINK</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3pl9Sa7" id="ow1979
+ " __is_owner="true">https://bit.ly/3pl9Sa7</a></html-blob>
+LAST-MODIFIED:20220226T203014Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:BLOCCO 629\,999 #tecnologia #economia #politica  
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210518
+DTEND;VALUE=DATE:20210519
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:6tctj2u5s2ns21q3hmhd7kkblv@google.com
+CREATED:20220222T100645Z
+DESCRIPTION:<html-blob>I minatori del blocco&nbsp\;124\,724&nbsp\;(<a href=
+ "https://bitcointalk.org/index.php?action=profile\;u=2759" id="ow2953" __is
+ _owner="true">midnightmagic on BitcoinTalk</a>)&nbsp\;si sono deliberatamen
+ te sottopagati di 1 satoshi dal reward di blocco (oltre a ignorare delibera
+ tamente le commissioni per le transazioni incluse in quel blocco).&nbsp\;Il
+  "satoshi scomparso" (per usare le parole di midnightmagic)\, era un tribut
+ o alla scomparsa di Satoshi.<br><br><a href="https://blockstream.info/tx/5d
+ 80a29be1609db91658b401f85921a86ab4755969729b65257651bb9fd2c10d" id="ow2957"
+  __is_owner="true">LINK EXPLORER</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/
+ 3BXpHc5">https://bit.ly/3BXpHc5</a><br><a href="https://bitcointalk.org/ind
+ ex.php?topic=7253.msg184414#msg184414" id="ow2967" __is_owner="true">LINK B
+ ITCOINTALK</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3BTH7Xf" id="ow2977" _
+ _is_owner="true">https://bit.ly/3BTH7Xf</a></html-blob>
+LAST-MODIFIED:20220226T203119Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MISSING SATOSHI #tecnologia #economia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220522
+DTEND;VALUE=DATE:20220523
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:348v4p7osiceeemmi5eahoaa4e@google.com
+CREATED:20220221T201453Z
+DESCRIPTION:<html-blob>IL 22 MAGGIO 2010 LASZLO HANYECZ (<a href="https://t
+ witter.com/hanyeczlaszlo" id="ow3152" __is_owner="true">https://twitter.com
+ /hanyeczlaszlo</a>) COMPRA LA PIZZA DA PAPA JOHN PAGANDOLA 10.000 BITCOIN<b
+ r>Questa è la famosa transazione "Bitcoin Pizza"\, una delle prime transazi
+ oni nel "mondo reale"\, in cui sono stati pagati 10.000 BTC per 2 pizze gra
+ ndi del valore di ~41 USD (a un tasso di cambio effettivo di ~$0\,004/BTC)<
+ br><br><a href="https://blockstream.info/tx/a1075db55d416d3ca199f55b6084e21
+ 15b9345e16c5cf302fc80e9d5fbf5d48d" id="ow3156" __is_owner="true">LINK EXPLO
+ RER</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/340Fpqw">https://bit.ly/340Fp
+ qw</a><br><a href="https://bitcointalk.org/index.php?topic=137.0" id="ow316
+ 6" __is_owner="true">LINK BITCOIN TALK</a>&nbsp\;=&nbsp\;<a href="https://b
+ it.ly/3HrtgIP" id="ow3176" __is_owner="true">https://bit.ly/3HrtgIP</a></ht
+ ml-blob>
+LAST-MODIFIED:20220226T203252Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PIZZA DAY #tecnologia #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230522
+DTEND;VALUE=DATE:20230523
+DTSTAMP:20220307T200522Z
+UID:348v4p7osiceeemmi5eahoaa4e@google.com
+RECURRENCE-ID;VALUE=DATE:20230522
+CREATED:20220221T201453Z
+DESCRIPTION:<html-blob>IL 22 MAGGIO 2010 LASZLO HANYECZ (<a href="https://t
+ witter.com/hanyeczlaszlo" id="ow3152" __is_owner="true">https://twitter.com
+ /hanyeczlaszlo</a>) COMPRA LA PIZZA DA PAPA JOHN PAGANDOLA 10.000 BITCOIN<b
+ r>Questa è la famosa transazione "Bitcoin Pizza"\, una delle prime transazi
+ oni nel "mondo reale"\, in cui sono stati pagati 10.000 BTC per 2 pizze gra
+ ndi del valore di ~41 USD (a un tasso di cambio effettivo di ~$0\,004/BTC)<
+ br><br><a href="https://blockstream.info/tx/a1075db55d416d3ca199f55b6084e21
+ 15b9345e16c5cf302fc80e9d5fbf5d48d" id="ow3156" __is_owner="true">LINK EXPLO
+ RER</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/340Fpqw">https://bit.ly/340Fp
+ qw</a><br><a href="https://bitcointalk.org/index.php?topic=137.0" id="ow316
+ 6" __is_owner="true">LINK BITCOIN TALK</a>&nbsp\;=&nbsp\;<a href="https://b
+ it.ly/3HrtgIP" id="ow3176" __is_owner="true">https://bit.ly/3HrtgIP</a></ht
+ ml-blob>
+LAST-MODIFIED:20220226T203252Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PIZZA DAY #tecnologia #economia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220527
+DTEND;VALUE=DATE:20220528
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:6m6isnrfptf7prdej7sdp2utkr@google.com
+CREATED:20220225T101103Z
+DESCRIPTION:<html-blob><i>Il primo pagamento elettronico in contanti al mon
+ do su reti informatiche |&nbsp\;</i>DigiCash - 27/05/1994<br>(contributo st
+ orico alla nascita di Bitcoin)<br><br><b>DigiCash Inc.</b>&nbsp\;era una so
+ cietà&nbsp\;di moneta elettronica&nbsp\;fondata da&nbsp\;<a href="https://e
+ n.wikipedia.org/wiki/David_Chaum" id="ow3410" __is_owner="true">David Chaum
+ </a>&nbsp\;(LINK =&nbsp\;<a href="https://bit.ly/35gVQPT" id="ow3423" __is_
+ owner="true">https://bit.ly/35gVQPT</a>)&nbsp\;nel 1989. Le transazioni Dig
+ iCash erano uniche in quanto anonime a causa di una serie di&nbsp\;protocol
+ li&nbsp\;crittografici sviluppati dal suo fondatore.&nbsp\;<sup><a href="ht
+ tps://en.wikipedia.org/wiki/DigiCash#cite_note-1" id="ow3427" __is_owner="t
+ rue">LINK</a>&nbsp\;=&nbsp\;</sup><a href="https://bit.ly/3hqIwe8" id="ow34
+ 40" __is_owner="true">https://bit.ly/3hqIwe8</a>&nbsp\;DigiCash ha dichiara
+ to bancarotta nel 1998 e successivamente ha venduto&nbsp\;<sup><a href="htt
+ ps://en.wikipedia.org/wiki/DigiCash#cite_note-2" id="ow3444" __is_owner="tr
+ ue">LINK</a>&nbsp\;=&nbsp\;</sup><a href="https://bit.ly/3soZvUJ">https://b
+ it.ly/3soZvUJ</a><sup>&nbsp\;</sup>&nbsp\;i suoi beni a eCash Technologies\
+ , un'altra società di valuta digitale\, che è stata acquisita da&nbsp\;<a h
+ ref="https://en.wikipedia.org/wiki/InfoSpace" id="ow3460" __is_owner="true"
+ >InfoSpace</a>&nbsp\;(LINK =&nbsp\;<a href="https://bit.ly/3C9YjYJ" id="ow3
+ 476" __is_owner="true">https://bit.ly/3C9YjYJ</a>)&nbsp\;il 19 febbraio 200
+ 2.&nbsp\;<sup><a href="https://en.wikipedia.org/wiki/DigiCash#cite_note-3" 
+ id="ow3480" __is_owner="true">LINK</a>&nbsp\;=&nbsp\;</sup><a href="https:/
+ /bit.ly/3hmIHHA">https://bit.ly/3hmIHHA</a><br><br>David Chaum è associato 
+ all'invenzione della tecnologia Blind Signature.&nbsp\;Nel 1982\, mentre st
+ udiava&nbsp\;all'Università della California\, a Berkeley&nbsp\;\, Chaum sc
+ risse un articolo che descriveva i progressi tecnologici della tecnologia a
+  chiave pubblica e privata\, al fine di creare questa tecnologia di firma c
+ ieca.&nbsp\;<sup><a href="https://en.wikipedia.org/wiki/DigiCash#cite_note-
+ 4" id="ow3490" __is_owner="true">LINK</a>&nbsp\;=&nbsp\;</sup><a href="http
+ s://bit.ly/35wGsP6" id="ow3500" __is_owner="true">https://bit.ly/35wGsP6</a
+ >&nbsp\;La tecnologia Blind Signature di Chaum è stata progettata per garan
+ tire la completa privacy degli utenti che effettuano transazioni online.&nb
+ sp\;Chaum era preoccupato per la natura pubblica e l'accesso aperto ai paga
+ menti online e alle informazioni personali.&nbsp\;Ha quindi proposto di cos
+ truire un sistema di protocolli crittografici\, in cui una banca o il gover
+ no non sarebbero in grado di tracciare i pagamenti personali effettuati onl
+ ine.&nbsp\;<sup><a href="https://en.wikipedia.org/wiki/DigiCash#cite_note-5
+ " id="ow3504" __is_owner="true">LINK</a>&nbsp\;=&nbsp\;</sup><a href="https
+ ://bit.ly/3HpSbME">https://bit.ly/3HpSbME</a><sup>&nbsp\;&nbsp\;</sup>Quest
+ a tecnologia è stata completamente implementata nel 1990\, attraverso la so
+ cietà di Chaum\, DigiCash.<br><br><a href="https://www.chaum.com/ecash/" id
+ ="ow3540" __is_owner="true">LINK&nbsp\;AL SITO ECASH</a> =&nbsp\;<a href="h
+ ttps://bit.ly/3Hqg7zx">https://bit.ly/3Hqg7zx</a><br><br></html-blob><br><h
+ tml-blob>ALLEGATI:&nbsp\;</html-blob><br><ul><li><html-blob>DOC PDF eCash i
+ s Here 1994</html-blob></li><li><html-blob>DOC PDF BLIND SIGNATURES FOR UNT
+ RACEABLE PAYMENTS<br></html-blob></li><li><html-blob>DOC PDF ECASH</html-bl
+ ob></li></ul>
+LAST-MODIFIED:20220226T204007Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DIGICASH\, DAVID CHAUM #tecnologia #economia
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=10-19-1994 - Attention Internet Shoppers- E-Cash Is Here.pd
+ f;FMTTYPE=application/pdf:https://drive.google.com/open?id=1BfKchGC9QZnXlMR
+ A1OA6dhKYkZUB42ek&authuser=0
+ATTACH;FILENAME=978-1-4757-0602-4_18.pdf;FMTTYPE=application/pdf:https://dr
+ ive.google.com/open?id=1PONLfMn7yRKfquLwSk8T2fLO4ev9NQJ8&authuser=0
+ATTACH;FILENAME=ECASH.pdf;FMTTYPE=application/pdf:https://drive.google.com/
+ open?id=1hBO94Go7MFtcFF9q3__9YpYBB4m-OO3d&authuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220605
+DTEND;VALUE=DATE:20220606
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:00u99gii573rs9a0or0slj1kdj@google.com
+CREATED:20220225T102947Z
+DESCRIPTION:<html-blob>5 GIUGNO 1991 rilascio versione 1 del software<br><b
+ r><p><b>Pretty Good Privacy</b>\, meglio conosciuto con l'&nbsp\;acronimo&n
+ bsp\;<b>PGP</b>&nbsp\;è un&nbsp\;software&nbsp\;per la&nbsp\;cifratura&nbsp
+ \;crittografica&nbsp\;\,&nbsp\;sviluppato&nbsp\;e distribuito da<a href="ht
+ tps://it.frwiki.wiki/wiki/Philip_Zimmermann" id="ow3725" __is_owner="true">
+ &nbsp\;Phil Zimmermann</a>&nbsp\;(LINK =&nbsp\;<a href="https://bit.ly/3K3F
+ d9j" id="ow3745" __is_owner="true">https://bit.ly/3K3Fd9j</a>) nel1991<u></
+ u>.</p><p>PGP intende garantire la&nbsp\;riservatezza&nbsp\;e l'&nbsp\;aute
+ nticazione&nbsp\;per la comunicazione dei dati. Viene spesso utilizzato per
+  la&nbsp\;firma dei&nbsp\;dati\, la crittografia e la decrittografia di tes
+ ti\,&nbsp\;e-mail&nbsp\;\,&nbsp\;file&nbsp\;\,&nbsp\;cartelle&nbsp\;per aum
+ entare la sicurezza delle comunicazioni. Usando&nbsp\;la crittografia asimm
+ etrica&nbsp\;ma anche&nbsp\;la crittografia simmetrica&nbsp\;\, fa parte de
+ l software di&nbsp\;crittografia ibrida. PGP e prodotti simili seguono lo&n
+ bsp\;standard OpenPGP&nbsp\;(&nbsp\;RFC&nbsp\;4880)</p><p><a href="https://
+ philzimmermann.com/FR/background/index.html" id="ow3729" __is_owner="true">
+ LINK PAGINA ZIMMERMANN</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/35CkSZS" i
+ d="ow3761" __is_owner="true">https://bit.ly/35CkSZS</a></p><p><a href="http
+ ://vadeker.net/humanite/geopolitique/pgp2.html" id="ow3765" __is_owner="tru
+ e">LINK</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3pkvuUe" id="ow3778" __is
+ _owner="true">https://bit.ly/3pkvuUe</a>&nbsp\;</p></html-blob>
+LAST-MODIFIED:20220226T204253Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PGP\, PHILIP ZIMMERMANN #tecnologia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220616
+DTEND;VALUE=DATE:20220617
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:6t2e16ld5nl2j7gvpoao9k0eeb@google.com
+CREATED:20220222T210721Z
+DESCRIPTION:<html-blob><u></u><u></u>16.06.2014<u></u><br><u></u>In questa 
+ transazione compaiono numerosi riferimenti ad episodi della saga Star Wars<
+ br><br><a href="https://blockstream.info/tx/143a3d7e7599557f9d63e7f224f34d3
+ 3e9251b2c23c38f95631b3a54de53f024" id="ow3946" __is_owner="true">LINK TRANS
+ AZIONE</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3M7Oq20">https://bit.ly/3M
+ 7Oq20</a><br><br>Di seguito l'elenco degli output:<br><br><a href="https://
+ blockstream.info/address/1EpisodeiV111111111111111111wbq9i2">1EpisodeiV1111
+ 11111111111111wbq9i2</a>&nbsp\;<br><a href="https://blockstream.info/addres
+ s/1ANewHope1111111111111111111vnYm6D">1ANewHope1111111111111111111vnYm6D</a
+ ><br><a href="https://blockstream.info/address/111111111111111111112xT3273"
+ >111111111111111111112xT3273</a><br><a href="https://blockstream.info/addre
+ ss/1itisAPeriodofCiviLWarRebeLyzK2rV">1itisAPeriodofCiviLWarRebeLyzK2rV</a>
+ <br><a href="https://blockstream.info/address/1SpaceshipsStrikingFromA111vh
+ 24Fi">1SpaceshipsStrikingFromA111vh24Fi</a><br><a href="https://blockstream
+ .info/address/1HiddenBaseHaveWonTheirFirstVCugGV">1HiddenBaseHaveWonTheirFi
+ rstVCugGV</a><br><a href="https://blockstream.info/address/1VictoryAgainstT
+ heEviL111123YSBKF">1VictoryAgainstTheEviL111123YSBKF</a><br><a href="https:
+ //blockstream.info/address/1GaLacticEmpire1111111111111xsW5HG">1GaLacticEmp
+ ire1111111111111xsW5HG</a><br><a href="https://blockstream.info/address/111
+ 1111111111111111141MmnWZ">1111111111111111111141MmnWZ</a><br><a href="https
+ ://blockstream.info/address/1DuringTheBattLeRebeLSpies11ybfhTP">1DuringTheB
+ attLeRebeLSpies11ybfhTP</a><br><a href="https://blockstream.info/address/1M
+ anagedToSteaLSecretPLansToxvKf4K">1ManagedToSteaLSecretPLansToxvKf4K</a><br
+ ><a href="https://blockstream.info/address/1TheEmpiresULtimateWeapon11zoRcy
+ n">1TheEmpiresULtimateWeapon11zoRcyn</a><br><a href="https://blockstream.in
+ fo/address/1TheDEATHSTARAnArmoredSpacezUyCHa">1TheDEATHSTARAnArmoredSpacezU
+ yCHa</a><br><a href="https://blockstream.info/address/1StationWithEnoughPow
+ erTo11vFTWwP">1StationWithEnoughPowerTo11vFTWwP</a><br><a href="https://blo
+ ckstream.info/address/1DestroyAnEntirePLanet1111122KUcy5">1DestroyAnEntireP
+ Lanet1111122KUcy5</a><br><a href="https://blockstream.info/address/11111111
+ 1111111111114ysyUW1" id="ow3956" __is_owner="true">111111111111111111114ysy
+ UW1</a><br><a href="https://blockstream.info/address/1PursuedByTheEmpiresSi
+ nisterypjWrk">1PursuedByTheEmpiresSinisterypjWrk</a><br><a href="https://bl
+ ockstream.info/address/1AgentsPrincessLeiaRacesHomewxuNTT">1AgentsPrincessL
+ eiaRacesHomewxuNTT</a><br><a href="https://blockstream.info/address/1Aboard
+ HerStarshipCustodian1yhX6zg">1AboardHerStarshipCustodian1yhX6zg</a><br><a h
+ ref="https://blockstream.info/address/1ofTheStoLenPLansThatCan111zCJt3F">1o
+ fTheStoLenPLansThatCan111zCJt3F</a><br><a href="https://blockstream.info/ad
+ dress/1SaveHerPeopLeAndRestore111yULD1y">1SaveHerPeopLeAndRestore111yULD1y<
+ /a><br><a href="https://blockstream.info/address/1FreedomToTheGaLaxy1111111
+ 122roNk3">1FreedomToTheGaLaxy1111111122roNk3</a><br><br>(se vuoi aiutarmi\,
+  mi piacerebbe trovare link funzionanti per ogni episodio citato)<u></u><u>
+ </u></html-blob>
+LAST-MODIFIED:20220226T204426Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:STAR WARS #tecnologia #curiosità
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220709
+DTEND;VALUE=DATE:20220710
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:3uv2o7r8piqk1hftdpj97ti9rm@google.com
+CREATED:20220221T202258Z
+DESCRIPTION:<html-blob>IL 9 LUGLIO 2016 AVVIENE IL SECONDO HALVING<br>First
+  block of subsidy era #3 (12.5 BTC)<br><a href="https://blockstream.info/bl
+ ock/000000000000000002cce816c0ab2c5c269cb081896b7dcb34b8422d6b74ffa1" id="o
+ w4305" __is_owner="true">LINK EXPLORER</a>&nbsp\;=&nbsp\;<a href="https://b
+ it.ly/3JVTEvW">https://bit.ly/3JVTEvW</a><br><a href="https://github.com/bi
+ tcoin/bitcoin/blob/master/src/validation.cpp#L1240" id="ow4315" __is_owner=
+ "true">LINK GITHUB</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3hlWuy7" id="o
+ w4325" __is_owner="true">https://bit.ly/3hlWuy7</a></html-blob>
+LAST-MODIFIED:20220226T204525Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SECONDO HALVING #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230709
+DTEND;VALUE=DATE:20230710
+DTSTAMP:20220307T200522Z
+UID:3uv2o7r8piqk1hftdpj97ti9rm@google.com
+RECURRENCE-ID;VALUE=DATE:20230709
+CREATED:20220221T202258Z
+DESCRIPTION:<html-blob>IL 9 LUGLIO 2016 AVVIENE IL SECONDO HALVING<br>First
+  block of subsidy era #3 (12.5 BTC)<br><a href="https://blockstream.info/bl
+ ock/000000000000000002cce816c0ab2c5c269cb081896b7dcb34b8422d6b74ffa1" id="o
+ w4305" __is_owner="true">LINK EXPLORER</a>&nbsp\;=&nbsp\;<a href="https://b
+ it.ly/3JVTEvW">https://bit.ly/3JVTEvW</a><br><a href="https://github.com/bi
+ tcoin/bitcoin/blob/master/src/validation.cpp#L1240" id="ow4315" __is_owner=
+ "true">LINK GITHUB</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3hlWuy7" id="o
+ w4325" __is_owner="true">https://bit.ly/3hlWuy7</a></html-blob>
+LAST-MODIFIED:20220226T204525Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SECONDO HALVING #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210729
+DTEND;VALUE=DATE:20210730
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:7tup4p0qk6ridt1g9qee52a8v3@google.com
+CREATED:20220222T100232Z
+DESCRIPTION:<html-blob>Transazioni multiple nel blocco n. 71.036\, inclusa 
+ questa\, includevano MOLTI comandi OP_CHECKSIG\, causando l'esecuzione di l
+ avori non necessari da parte dei nodi e aiutavano a identificare un possibi
+ le attacco DoS (Denial-of-Service).&nbsp\;Una nuova versione di Bitcoin è s
+ tata rapidamente rilasciata.&nbsp\;La nuova versione non ha causato un fork
+  sulla rete principale\, sebbene ne abbia causato uno sulla rete di test.<b
+ r><br><a href="https://blockstream.info/tx/e411dbebd2f7d64dafeef9b14b5c59ec
+ 60c36779d43f850e5e347abee1e1a455" id="ow4494" __is_owner="true">LINK EXPLOR
+ ER</a>&nbsp\;=<a href="https://bit.ly/3slrNiS">&nbsp\;https://bit.ly/3slrNi
+ S</a><br><a href="https://en.bitcoin.it/wiki/Common_Vulnerabilities_and_Exp
+ osures#CVE-2010-5138" id="ow4504" __is_owner="true">LINK WIKI</a>&nbsp\;=&n
+ bsp\;<a href="https://bit.ly/3pk9qZO" id="ow4514" __is_owner="true">https:/
+ /bit.ly/3pk9qZO</a></html-blob>
+LAST-MODIFIED:20220226T204615Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:OP_CHECKSIG 71\,036 #tecnologia #economia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220801
+DTEND;VALUE=DATE:20220802
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:4rdf8imufis9qd85nog8rhedae@google.com
+CREATED:20220225T093438Z
+DESCRIPTION:<html-blob>28 MARZO 1997 (1° annuncio ufficiale)<br><br><b>Hash
+ cash</b>&nbsp\;è un&nbsp\;<a href="https://it.wikipedia.org/wiki/Proof-of-w
+ ork">sistema proof-of-work</a>&nbsp\;usato per limitare&nbsp\;<a href="http
+ s://it.wikipedia.org/wiki/Email_spam">email spam</a>&nbsp\;e&nbsp\;<a href=
+ "https://it.wikipedia.org/wiki/Denial_of_service">attacchi DDoS</a>\, e più
+  recentemente è diventata famosa per il suo uso in bitcoin&nbsp\;come parte
+  dell'algoritmo di mining. L'hashcash è stato proposto da&nbsp\;<a href="ht
+ tps://it.wikipedia.org/w/index.php?title=Adam_Back&action=edit&redlink=1">A
+ dam Back</a>.<sup><a href="https://it.wikipedia.org/wiki/Hashcash#cite_note
+ -Announce-1" id="ow4686" __is_owner="true">LINK</a>&nbsp\;=<a href="goog_34
+ 6708014">&nbsp\;</a></sup><a href="https://bit.ly/3snZGzq">https://bit.ly/3
+ snZGzq</a><br><p>L’hashcash è un algoritmo proof-of-work (scoraggia attacch
+ i DOS e altri abusi di servizio) che richiede una quantità selezionabile di
+  lavoro da eseguire\, dove tale dimostrazione di efficienza può essere most
+ rata senza alcun problema. Per un utilizzo di tale metodo tramite email\, u
+ n codice testuale di un hashcash viene aggiunto all’intestazione dell’email
+  per provare che il mittente ha occupato del tempo per utilizzare una picco
+ la quantità di CPU\, calcolando il timbro prima di inviare l’email. In altr
+ e parole\, se il mittente ha utilizzato un certo lasso di tempo per generar
+ e il timbro e inviare l’email\, è molto improbabile che sia uno spammer. Il
+  destinatario può\, ad un costo di calcolo trascurabile\, verificare che il
+  timbro sia valido. Comunque sia\, l’unico modo conosciuto di trovare l’int
+ estazione con le proprietà necessarie è tramite la brute force\, provando d
+ ei valori casuali\, fin quando la risposta non venga trovata. Tuttavia\, no
+ nostante analizzare una singola stringa sia facile\, riuscire a trovare una
+  risposta soddisfacente è altrettanto difficile\, e questo implicherà un co
+ nsiderevole numero di tentativi per trovare la risposta.</p><p>L’ipotesi è 
+ quella che gli spammers\, il cui modello di business si basa sull'abilità n
+ el mandare un grande quantitativo di email ad un basso costo per messaggio\
+ , smettano di avere un profitto se c’è anche un piccolo costo in più per og
+ ni spam inviata. Il destinatario può verificare se il mittente abbia fatto 
+ un tale investimento e usare i risultati per filtrare e rendere più sicure 
+ le email.</p><p>ALLEGATI:</p><p></p><ul><li>DOC PDF&nbsp\;Hashcash - A Deni
+ al of Service Counter-Measure</li></ul><p></p></html-blob>
+LAST-MODIFIED:20220226T204729Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HASHCASH\, ADAM BACK #tecnologia #economia
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=hashcash.pdf;FMTTYPE=application/pdf:https://drive.google.c
+ om/open?id=1mOGB8Wt2k8j9zbYm5pY-X2WaAvJBNDUo&authuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220802
+DTEND;VALUE=DATE:20220803
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:0kdftkm0i6bojvce2rdtjs3gq6@google.com
+CREATED:20220225T095035Z
+DESCRIPTION:<html-blob>AGOSTO 1994 (contributo storico alla nascita di Bitc
+ oin)<br><br><p><b>CyberCash\, Inc.</b>&nbsp\;era un servizio di&nbsp\;<a hr
+ ef="https://en.wikipedia.org/wiki/E-commerce_payment_system" id="ow4893" __
+ is_owner="true">pagamento Internet</a>&nbsp\;per&nbsp\;<a href="https://en.
+ wikipedia.org/wiki/E-commerce" id="ow4903" __is_owner="true">il commercio e
+ lettronico</a>&nbsp\;\, con sede a&nbsp\;<a href="https://en.wikipedia.org/
+ wiki/Reston\,_Virginia" id="ow4913" __is_owner="true">Reston\, Virginia</a>
+ &nbsp\;.&nbsp\;È stata fondata nell'agosto 1994 da Daniel C. Lynch.&nbsp\;L
+ 'azienda inizialmente ha fornito un software di&nbsp\;<a href="https://en.w
+ ikipedia.org/wiki/Online_wallet" id="ow4923" __is_owner="true">portafoglio 
+ online</a>&nbsp\;ai consumatori e ha fornito un software ai commercianti pe
+ r accettare pagamenti&nbsp\;con carta di&nbsp\;credito.&nbsp\;</p><p>Succes
+ sivamente\, hanno anche offerto "CyberCoin"\, un sistema di&nbsp\;<a href="
+ https://en.wikipedia.org/wiki/Micropayment" id="ow4933" __is_owner="true">m
+ icropagamenti</a>&nbsp\;modellato sul progetto di ricerca NetBill a&nbsp\;<
+ a href="https://en.wikipedia.org/wiki/Carnegie_Mellon_University" id="ow494
+ 3" __is_owner="true">Carnegie Mellon University</a>.</p><p>A quel tempo\, i
+ l&nbsp\;<a href="https://en.wikipedia.org/wiki/Federal_government_of_the_Un
+ ited_States" id="ow4953" __is_owner="true">governo degli Stati Uniti</a>&nb
+ sp\;aveva una restrizione di breve durata sull'esportazione della&nbsp\;<a 
+ href="https://en.wikipedia.org/wiki/Cryptography" id="ow4957" __is_owner="t
+ rue">crittografia</a>&nbsp\;\, rendendo illegale la fornitura di tecnologia
+  di crittografia al di fuori degli&nbsp\;<a href="https://en.wikipedia.org/
+ wiki/United_States">Stati Uniti</a>&nbsp\;.&nbsp\;CyberCash ha ottenuto un'
+ esenzione dal&nbsp\;<a href="https://en.wikipedia.org/wiki/United_States_De
+ partment_of_State">Dipartimento di Stato</a>&nbsp\;\, che ha concluso che s
+ arebbe stato più facile creare una tecnologia di crittografia da zero che e
+ strarla dal software di Cyber-Cash.&nbsp\;<sup><a href="https://en.wikipedi
+ a.org/wiki/CyberCash#cite_note-5" id="ow4862" __is_owner="true">LINK</a>&nb
+ sp\;=&nbsp\;</sup><a href="https://bit.ly/3HrZHqt" id="ow4872" __is_owner="
+ true">https://bit.ly/3HrZHqt</a></p><p>Il 1 gennaio 2000\, molti utenti del
+ l'applicazione ICVerify di CyberCash sono caduti vittime del&nbsp\;<a href=
+ "https://en.wikipedia.org/wiki/Year_2000_problem" id="ow4967" __is_owner="t
+ rue">bug Y2K</a>&nbsp\;\, causando la doppia registrazione dei pagamenti co
+ n carta di credito attraverso il loro sistema.&nbsp\;<sup><a href="https://
+ en.wikipedia.org/wiki/CyberCash#cite_note-10" id="ow4876" __is_owner="true"
+ >LINK</a>&nbsp\;=&nbsp\;</sup><a href="https://bit.ly/3BUupYf" id="ow4889" 
+ __is_owner="true">https://bit.ly/3BUupYf</a> Sebbene CyberCash avesse già r
+ ilasciato un aggiornamento compatibile con Y2K per il software\, molti uten
+ ti non lo avevano installato.</p><p>LINK DI APPROFONDIMENTO:</p><p></p><ul>
+ <li><a href="goog_346708031">https://bit.ly/3M7OLSk<br></a></li><li><a href
+ ="goog_346708031">https://bit.ly/3spWGme<br></a></li><li><a href="goog_3467
+ 08031">https://bit.ly/33U13wm<br></a></li><li><a href="goog_346708031">http
+ s://bit.ly/3M8iD16<br></a></li><li><a href="goog_346708031">https://bit.ly/
+ 3JVRiNG<br></a></li><li><a href="goog_346708031">https://bit.ly/3HqgZEj<br>
+ </a></li><li><a href="goog_346708031">https://bit.ly/36AnvM0<br></a></li><l
+ i><a href="https://bit.ly/3hjwEL4">https://bit.ly/3hjwEL4</a><br></li></ul>
+ <p></p></html-blob>
+LAST-MODIFIED:20220226T205142Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CYBERCASH\, DANIEL C. LYNCH #tecnologia #economia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220818
+DTEND;VALUE=DATE:20220819
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:4fum9vonqle4rlsip8aj3t051k@google.com
+CREATED:20220221T202359Z
+DESCRIPTION:<html-blob>IL 18 AGOSTO 2008 VIENE REGISTRATO IL DOMINIO <a hre
+ f="http://BITCOIN.ORG" id="ow5200" __is_owner="true">BITCOIN.ORG</a>&nbsp\;
+ </html-blob><br><html-blob>LINK =&nbsp\;<a href="https://bit.ly/3tx9yXh" id
+ ="ow5213" __is_owner="true">https://bit.ly/3tx9yXh</a></html-blob>
+LAST-MODIFIED:20220227T101817Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BITCOIN.ORG #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230818
+DTEND;VALUE=DATE:20230819
+DTSTAMP:20220307T200522Z
+UID:4fum9vonqle4rlsip8aj3t051k@google.com
+RECURRENCE-ID;VALUE=DATE:20230818
+CREATED:20220221T202359Z
+DESCRIPTION:<html-blob>IL 18 AGOSTO 2008 VIENE REGISTRATO IL DOMINIO <a hre
+ f="http://BITCOIN.ORG" id="ow5200" __is_owner="true">BITCOIN.ORG</a>&nbsp\;
+ </html-blob><br><html-blob>LINK =&nbsp\;<a href="https://bit.ly/3tx9yXh" id
+ ="ow5213" __is_owner="true">https://bit.ly/3tx9yXh</a></html-blob>
+LAST-MODIFIED:20220227T101817Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BITCOIN.ORG #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220824
+DTEND;VALUE=DATE:20220825
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:5tgrjle2aj4fg3aoi2k6l4seuq@google.com
+CREATED:20220222T212747Z
+DESCRIPTION:<html-blob>24.08.2017<br><br>Prima transazione SegWit&nbsp\;<br
+ ><a href="https://blockstream.info/tx/8f907925d2ebe48765103e6845c06f1f2bb77
+ c6adc1cc002865865eb5cfd5c1c" id="ow5380" __is_owner="true">LINK TRANSAZIONE
+ </a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3Iv0zMc">https://bit.ly/3Iv0zMc<
+ /a><br><a href="https://twitter.com/KHS9NE/status/900553902923362304" id="o
+ w5390" __is_owner="true">LINK TWITTER</a>&nbsp\;=&nbsp\;<a href="https://bi
+ t.ly/35xrybF" id="ow5400" __is_owner="true">https://bit.ly/35xrybF</a></htm
+ l-blob>
+LAST-MODIFIED:20220227T101911Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PRIMA TRANSAZIONE SEGWIT #tecnologia #economia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220824
+DTEND;VALUE=DATE:20220825
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:7msoo01mqb39jfm0jrj5nn0kjk@google.com
+CREATED:20220222T212543Z
+DESCRIPTION:<html-blob>24.08.2017<br>Blocco 481\,824 <a href="https://block
+ stream.info/block/0000000000000000001c8018d9cb3b742ef25114f27563e3fc4a19021
+ 67f9893" id="ow5567" __is_owner="true">LINK</a>&nbsp\;=<a href="https://bit
+ .ly/3tkCSjE">&nbsp\;https://bit.ly/3tkCSjE</a><br><br>Primo blocco SegWit&n
+ bsp\;<br><a href="https://twitter.com/conio/status/900722226911219712" id="
+ ow5577" __is_owner="true">LINK TWEET CONIO</a>&nbsp\;=&nbsp\;<a href="https
+ ://bit.ly/33VnD7U" id="ow5587" __is_owner="true">https://bit.ly/33VnD7U</a>
+ </html-blob>
+LAST-MODIFIED:20220227T102003Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PRIMO BLOCCO SEGWIT #tecnologia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220913
+DTEND;VALUE=DATE:20220914
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:4qqqe8isdabb0rpkd1sbjqrhjo@google.com
+CREATED:20220222T204128Z
+DESCRIPTION:<html-blob><u></u><a href="https://blockstream.info/address/37k
+ 7toV1Nv4DfmQbmZ8KuZDQCYK9x5KpzP" id="ow5778" __is_owner="true">Questo indir
+ izzo</a>&nbsp\;(LINK = <a href="https://bit.ly/3hkm2Mb" id="ow5788" __is_ow
+ ner="true">https://bit.ly/3hkm2Mb</a>) corrisponde a uno script Bitcoin (&n
+ bsp\;6e879169a77ca787&nbsp\;) che consente a chiunque possa dimostrare una 
+ collisione SHA1 di spendere dall'indirizzo stesso.&nbsp\;<br>Il 13 settembr
+ e 2013 questo indirizzo è stato finanziato come "sfida SHA1" e ha continuat
+ o ad accumulare donazioni per oltre 2 anni quando\, il 23 febbraio 2017\, s
+ ono stati spesi un totale di 1\,62 BTC da questo indirizzo <a href="https:/
+ /blockstream.info/tx/8d31992805518fd62daa3bdd2a5c4fd2cd3054c9b3dca1d78055e9
+ 528cff6adc" id="ow5792" __is_owner="true">LINK TRANSAZIONE</a>&nbsp\;=&nbsp
+ \;<a href="https://bit.ly/3JY6FVH">https://bit.ly/3JY6FVH</a><br><br><a hre
+ f="https://blockstream.info/tx/8d31992805518fd62daa3bdd2a5c4fd2cd3054c9b3dc
+ a1d78055e9528cff6adc" id="ow5802" __is_owner="true">LINK BITCOIN TALK</a>&n
+ bsp\;=&nbsp\;<a href="https://bit.ly/3ho8Be8">https://bit.ly/3ho8Be8</a><br
+ ><a href="https://www.ictsecuritymagazine.com/articoli/shattered-uno-sguard
+ o-alla-collisione-sha1-ed-al-mondo-degli-hash/" id="ow5812" __is_owner="tru
+ e">LINK SECURITY MAGAZINE</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3BU62Kc
+ " id="ow5822" __is_owner="true">https://bit.ly/3BU62Kc</a><u></u></html-blo
+ b>
+LAST-MODIFIED:20220227T102226Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SFIDA SHA1 #tecnologia #curiosità
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220913
+DTEND;VALUE=DATE:20220914
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:74h9ago5fpbg8g4d2f7hepvi8o@google.com
+CREATED:20220222T204547Z
+DESCRIPTION:<html-blob><u></u><u></u><a href="https://blockstream.info/addr
+ ess/35Snmmy3uhaer2gTboc81ayCip4m9DT4ko" id="ow5997" __is_owner="true">Quest
+ o indirizzo</a>&nbsp\;(LINK =&nbsp\;<a href="https://bit.ly/3BYGX0s" id="ow
+ 6007" __is_owner="true">https://bit.ly/3BYGX0s</a>) corrisponde a uno scrip
+ t Bitcoin (&nbsp\;6e879169a87ca887&nbsp\;) che consente a chiunque possa di
+ mostrare una di rompere SHA256 di spendere dall'indirizzo stesso.<u></u><br
+ ><u></u>Il 13 settembre 2013 questo indirizzo è stato finanziato come premi
+ o di sfida SHA256.&nbsp\;<u></u><br><u></u>Ha continuato ad accumulare dona
+ zioni per oltre 7 anni e\, al momento della stesura di questo articolo (apr
+ ile 2021)\, la ricompensa rimane non riscossa.<br><br><a href="https://bloc
+ kstream.info/tx/8d31992805518fd62daa3bdd2a5c4fd2cd3054c9b3dca1d78055e9528cf
+ f6adc" id="ow6011" __is_owner="true">LINK BITCOIN TALK</a>&nbsp\;=&nbsp\;<a
+  href="https://bit.ly/3vmiZLu">https://bit.ly/3vmiZLu</a><br><a href="https
+ ://www.ictsecuritymagazine.com/articoli/shattered-uno-sguardo-alla-collisio
+ ne-sha1-ed-al-mondo-degli-hash/" id="ow6021" __is_owner="true">LINK SECURIT
+ Y MAGAZINE</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3htb6eV" id="ow6031" _
+ _is_owner="true">https://bit.ly/3htb6eV</a><u></u><u></u><u></u></html-blob
+ >
+LAST-MODIFIED:20220227T102355Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SFIDA SHA256 #tecnologia #curiosità
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221010
+DTEND;VALUE=DATE:20221011
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:5987ic8mjnj5jc7s4dsg0jnt4u@google.com
+CREATED:20220221T202717Z
+DESCRIPTION:<html-blob>IL 10 OTTOBRE 2014 PRIMO DOCU-FILM SU BITCOIN<br>"TH
+ E RISE AND RISE OF BITCOIN"<br><a href="https://youtu.be/qk4gZrBR9CU" id="o
+ w6235" __is_owner="true">LINK AL FILM</a>&nbsp\;=&nbsp\;<a href="https://yo
+ utu.be/qk4gZrBR9CU" id="ow6245" __is_owner="true">https://youtu.be/qk4gZrBR
+ 9CU</a></html-blob>
+LAST-MODIFIED:20220227T102702Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DOCU-FILM #tecnologia #economia #video 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231010
+DTEND;VALUE=DATE:20231011
+DTSTAMP:20220307T200522Z
+UID:5987ic8mjnj5jc7s4dsg0jnt4u@google.com
+RECURRENCE-ID;VALUE=DATE:20231010
+CREATED:20220221T202717Z
+DESCRIPTION:<html-blob>IL 10 OTTOBRE 2014 PRIMO DOCU-FILM SU BITCOIN<br>"TH
+ E RISE AND RISE OF BITCOIN"<br><a href="https://youtu.be/qk4gZrBR9CU" id="o
+ w6235" __is_owner="true">LINK AL FILM</a>&nbsp\;=&nbsp\;<a href="https://yo
+ utu.be/qk4gZrBR9CU" id="ow6245" __is_owner="true">https://youtu.be/qk4gZrBR
+ 9CU</a></html-blob>
+LAST-MODIFIED:20220227T102702Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DOCU-FILM #tecnologia #economia #video 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211012
+DTEND;VALUE=DATE:20211013
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:5ojrmp01dfjo35hl84jvebvgsu@google.com
+CREATED:20220222T095858Z
+DESCRIPTION:<html-blob>In questa prima transazione nota da BTC a fiat\, 5.0
+ 50 BTC sono stati scambiati con 5\,02 USD\, a un tasso di cambio effettivo 
+ di ~0\,001 USD/BTC<br><a href="https://twitter.com/marttimalmi/status/42345
+ 5561703624704" id="ow6419" __is_owner="true">LINK</a>&nbsp\;=&nbsp\;<a href
+ ="https://bit.ly/3tchkFx">https://bit.ly/3tchkFx</a><br><a href="https://bl
+ ockstream.info/tx/7dff938918f07619abd38e4510890396b1cef4fbeca154fb7aafba884
+ 3295ea2" id="ow6430" __is_owner="true">LINK EXPLORER</a>&nbsp\;=&nbsp\;<a h
+ ref="https://bit.ly/3vrFYEX" id="ow6440" __is_owner="true">https://bit.ly/3
+ vrFYEX</a></html-blob>
+LAST-MODIFIED:20220227T102751Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PRIMO SCAMBIO CON VALUTA FIAT PRIMA TRANSAZIONE BITCOIN #tecnologia
+  #economia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221102
+DTEND;VALUE=DATE:20221103
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:4lqdr47tjh3nk54lfid1udmh40@google.com
+CREATED:20220225T094446Z
+DESCRIPTION:<html-blob>NOVEMBRE 1996 (contributo storico alla nascita di Bi
+ tcoin)<br><br><b>L'e-gold</b>&nbsp\;era una&nbsp\;<a href="https://en.wikip
+ edia.org/wiki/Digital_gold_currency" id="ow6854" __is_owner="true">valuta d
+ igitale aurea</a>&nbsp\;( LINK = <a href="https://bit.ly/3pnz4N7" id="ow686
+ 7" __is_owner="true">https://bit.ly/3pnz4N7</a>) gestita da Gold &amp\; Sil
+ ver Reserve Inc. (G&amp\;SR) sotto&nbsp\;<b>e-gold</b>&nbsp\;Ltd. che conse
+ ntiva agli utenti di aprire un conto sul proprio sito web denominato in gra
+ mmi d'oro (o altri&nbsp\;<a href="https://en.wikipedia.org/wiki/Precious_me
+ tal">metalli preziosi</a>&nbsp\;) e la possibilità per effettuare trasferim
+ enti istantanei di valore ("spese") ad altri conti e-gold.&nbsp\;Il sistema
+  e-gold è stato lanciato online nel 1996 ed era cresciuto fino a raggiunger
+ e i cinque milioni di conti entro il 2009\, quando i trasferimenti sono sta
+ ti sospesi per problemi legali.&nbsp\;Al suo apice nel 2006\, e-gold elabor
+ ava transazioni per un valore di oltre 2 miliardi di dollari all'anno\,&nbs
+ p\;<sup><a href="https://en.wikipedia.org/wiki/E-gold#cite_note-1" id="ow68
+ 75" __is_owner="true">LINK</a>&nbsp\;=&nbsp\;</sup><a href="https://bit.ly/
+ 36AX2xQ">https://bit.ly/36AX2xQ</a><sup>&nbsp\;</sup>&nbsp\;su una base mon
+ etaria di soli 71&nbsp\;milioni&nbsp\;di dollari di oro (~ 3\,5 tonnellate 
+ metriche)\,&nbsp\;<sup><a href="https://en.wikipedia.org/wiki/E-gold#cite_n
+ ote-2" id="ow6885" __is_owner="true">LINK</a>&nbsp\;=&nbsp\;</sup><a href="
+ https://bit.ly/3K1qMlW">https://bit.ly/3K1qMlW</a><sup>&nbsp\;</sup>indican
+ do un elevato turnover monetario (velocità) di circa 28 volte all'anno (per
+  confronto\, la velocità annuale di&nbsp\;US$&nbsp\;è di circa 6 per M1&nbs
+ p\;<sup><a href="https://en.wikipedia.org/wiki/E-gold#cite_note-3" id="ow68
+ 95" __is_owner="true">LINK</a>&nbsp\;=&nbsp\;</sup><a href="https://bit.ly/
+ 3snI5I4">https://bit.ly/3snI5I4</a><sup>&nbsp\;</sup>&nbsp\;e inferiore a 1
+ \,6 per M2&nbsp\;<sup><a href="https://en.wikipedia.org/wiki/E-gold#cite_no
+ te-4" id="ow6871" __is_owner="true">LINK</a>&nbsp\;=&nbsp\;</sup><a href="h
+ ttps://bit.ly/33V7LlN" id="ow6914" __is_owner="true">https://bit.ly/33V7LlN
+ </a>&nbsp\;).&nbsp\;e-gold Ltd. è stata costituita a&nbsp\;<a href="https:/
+ /en.wikipedia.org/wiki/Nevis" id="ow6922" __is_owner="true">Nevis</a>&nbsp\
+ ;\,&nbsp\;<a href="https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis" id=
+ "ow6918" __is_owner="true">Saint Kitts e Nevis</a>&nbsp\; (LINK =&nbsp\;<a 
+ href="https://bit.ly/3vhOWEO" id="ow6935" __is_owner="true">https://bit.ly/
+ 3vhOWEO</a>) con operazioni condotte al di fuori della Florida\, negli Stat
+ i Uniti.&nbsp\;<br><br><a href="https://blog.e-gold.com/" id="ow6939" __is_
+ owner="true">LINK AL SITO DI E-GOLD</a>&nbsp\;=&nbsp\;<a href="https://blog
+ .e-gold.com/" id="ow6949" __is_owner="true">https://blog.e-gold.com/</a></h
+ tml-blob>
+LAST-MODIFIED:20220227T103304Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:E-GOLD\, DOUGLAS JACKSON #tecnologia #economia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221103
+DTEND;VALUE=DATE:20221104
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:5nk49cntc1smck15fcmpo124ng@google.com
+CREATED:20220225T091456Z
+DESCRIPTION:<html-blob><u></u><p><b>NOVEMBRE\, 1998</b></p><p><b>B-money</b
+ >&nbsp\;è stata una delle prime proposte create da&nbsp\;<a href="https://e
+ n.bitcoin.it/wiki/Wei_Dai" id="ow7122" __is_owner="true">Wei Dai</a>&nbsp\;
+ (LINK =&nbsp\;<a href="https://bit.ly/3vo4SFx" id="ow7132" __is_owner="true
+ ">https://bit.ly/3vo4SFx</a>) per un "sistema di contanti elettronico anoni
+ mo e distribuito".&nbsp\;<a href="https://en.bitcoin.it/wiki/Satoshi_Nakamo
+ to" id="ow7136" __is_owner="true">Satoshi Nakamoto</a>&nbsp\;ha fatto rifer
+ imento a b-money durante la creazione di&nbsp\;<a href="https://en.bitcoin.
+ it/wiki/Bitcoin">Bitcoin</a>&nbsp\;.&nbsp\;Nel suo saggio\, pubblicato sull
+ a mailing list cypherpunks nel novembre 1998\, Dai ha proposto due protocol
+ li.&nbsp\;Il primo protocollo non è pratico in quanto richiede un canale di
+  trasmissione non disturbabile oltre che sincrono.<br></p><p>Nel primo prot
+ ocollo del saggio\, l'uso di una funzione&nbsp\;di Proof of Work&nbsp\;vien
+ e proposto come mezzo per creare denaro.&nbsp\;B-Money di Dai è stato propo
+ sto nel contesto delle discussioni sulla mailing list di cypherpunk relativ
+ e a possibili applicazioni di&nbsp\;<a href="https://en.bitcoin.it/wiki/Has
+ hcash" id="ow7153" __is_owner="true">Hashcash</a>&nbsp\;(LINK =&nbsp\;<a hr
+ ef="https://bit.ly/3K2P0fw" id="ow7166" __is_owner="true">https://bit.ly/3K
+ 2P0fw</a>) \, la prima funzione di proof-of-work simmetrica\, anch'essa pub
+ blicata sulla stessa mailing-list\, l'anno precedente - maggio 1997. (Come 
+ la proposta di B-money\, anche il bitcoin stesso utilizza la funzione di co
+ sto hashcash come prova -di lavoro durante il conio delle monete).&nbsp\;In
+  B-Money\, il denaro viene trasferito trasmettendo la transazione a tutti i
+  partecipanti\, che tengono tutti i conti di tutti gli altri.&nbsp\;I contr
+ atti possono essere stipulati con eventuale riparazione in caso di inadempi
+ mento\, con un terzo che accetta di essere l'arbitro.&nbsp\;In caso di manc
+ ato accordo\, ciascuna parte trasmette argomentazioni o prove a proprio fav
+ ore e ciascuno dei partecipanti determina autonomamente le riparazioni/mult
+ e nei propri conti.</p><p>Il secondo protocollo ha solo un sottoinsieme dei
+  partecipanti (i "server") che tengono i conti\, che devono pubblicare\, e 
+ dei partecipanti che effettuano le transazioni verificando i loro saldi chi
+ edendo a molti di loro.&nbsp\;I partecipanti verificano anche che l'offerta
+  di moneta non venga gonfiata.&nbsp\;Per diventare un server è necessaria u
+ na somma di denaro come cauzione\, che va persa se il server viene ritenuto
+  disonesto.</p><p>Viene proposto un metodo alternativo per creare denaro\, 
+ tramite un'asta in cui i partecipanti fanno offerte per la soluzione di pro
+ blemi computazionali di complessità nota.</p><p><a href="http://www.weidai.
+ com/bmoney.txt" id="ow7170" __is_owner="true">LINK WHITEPAPER B-MONEY</a>&n
+ bsp\;=&nbsp\;<a href="https://bit.ly/3HqtPm6" id="ow7180" __is_owner="true"
+ >https://bit.ly/3HqtPm6</a></p><u></u></html-blob>
+LAST-MODIFIED:20220227T103515Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: B-MONEY PROJECT\, WEI DAI #tecnologia #economia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221105
+DTEND;VALUE=DATE:20221106
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:2ko9665890hp745r4es2ot0fkc@google.com
+CREATED:20220222T205411Z
+DESCRIPTION:<html-blob>05.11.2013<br>Questa transazione include un output O
+ P_RETURN a 983 byte.&nbsp\;Sebbene la dimensione massima predefinita per i 
+ dati OP_RETURN sia spesso indicata come 80 byte\, il limite di 80 byte è un
+ a regola che può variare da nodo a nodo (e viene applicata solo al momento 
+ dell'accettazione in mempool).<br><br><a href="https://blockstream.info/tx/
+ d29c9c0e8e4d2a9790922af73f0b8d51f0bd4bb19940d9cf910ead8fbe85bc9b" id="ow735
+ 2" __is_owner="true">LINK TRANSAZIONE</a>&nbsp\;=&nbsp\;<a href="https://bi
+ t.ly/3t6fYfC">https://bit.ly/3t6fYfC</a><br><a href="https://bitcoin.stacke
+ xchange.com/questions/78572/op-return-max-bytes-clarification" id="ow7362" 
+ __is_owner="true">LINK SPIEGAZIONE BYTE MASSIMI</a>&nbsp\;=&nbsp\;<a href="
+ https://bit.ly/3ssbl0q" id="ow7372" __is_owner="true">https://bit.ly/3ssbl0
+ q</a></html-blob>
+LAST-MODIFIED:20220227T103605Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:OP_RETURN 983 #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221114
+DTEND;VALUE=DATE:20221115
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:5e66u8bs141th6k3o2h1deommp@google.com
+CREATED:20220221T203620Z
+DESCRIPTION:<html-blob>14 NOVEMBRE 2021 ATTIVAZIONE TAPROOT AL BLOCCO 70963
+ 2<br><a href="https://blockstream.info/tx/b53e3bc5edbb41b34a963ecf67eb04526
+ 6cf841cab73a780940ce6845377f141">LINK EXPLORER</a><br>explorer <a href="htt
+ ps://tinyurl.com/2x63b765">https://tinyurl.com/2x63b765</a>&nbsp\;<br><br>C
+ reato MOLTO prima del lock-in Taproot\, per non parlare dell'attivazione\, 
+ l'output n. 0 di questa transazione è il primo output P2TR in assoluto. È s
+ tato creato da Matthew Zipkin (<a href="https://twitter.com/matthewzipkin" 
+ id="ow7732" __is_owner="true">LINK TWITTER</a>&nbsp\;= <a href="https://bit
+ .ly/3plUjis" id="ow7742" __is_owner="true">https://bit.ly/3plUjis</a>) per 
+ testare il supporto di invio per bech32 v1. È interessante notare che quest
+ o output\, insieme ad altri 3 output P2TR pre-attivazione\, è stato anche s
+ peso prima dell'attivazione in <a href="https://blockstream.info/tx/b10c007
+ c60e14f9d087e0291d4d0c7869697c6681d979c6639dbd960792b4d41" id="ow7746" __is
+ _owner="true">LINK</a>&nbsp\;= <a href="https://bit.ly/3szhOGZ" id="ow7759"
+  __is_owner="true">https://bit.ly/3szhOGZ</a>\, che richiedeva un coordinam
+ ento speciale con F2Pool.<br><br>Dettaglio tx: Questa interessante transazi
+ one <a href="https://blockstream.info/tx/b10c007c60e14f9d087e0291d4d0c78696
+ 97c6681d979c6639dbd960792b4d41" id="ow7763" __is_owner="true">LINK</a>&nbsp
+ \;=&nbsp\;<a href="https://bit.ly/3CaNMfT" id="ow7773" __is_owner="true">ht
+ tps://bit.ly/3CaNMfT</a>&nbsp\;esiste nella blockchain solo grazie al coord
+ inamento speciale con F2Pool. Poiché questa transazione spende gli output P
+ ay-to-Taproot e poiché è stata creata prima dell'attivazione di Taproot\, e
+ ra considerata "non standard" e non sarebbe stata inoltrata attraverso la r
+ ete Bitcoin\, nonostante fosse tecnicamente valida. Pertanto\, come dimostr
+ azione tecnica\, <a href="https://b10c.me">https://b10c.me</a> si è coordin
+ ato con F2Pool per estrarre questa transazione non standard\, in cui gli ou
+ tput di P2TR erano effettivamente output che chiunque può spendere.</html-b
+ lob>
+LAST-MODIFIED:20220227T103759Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TAPROOT #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231114
+DTEND;VALUE=DATE:20231115
+DTSTAMP:20220307T200522Z
+UID:5e66u8bs141th6k3o2h1deommp@google.com
+RECURRENCE-ID;VALUE=DATE:20231114
+CREATED:20220221T203620Z
+DESCRIPTION:<html-blob>14 NOVEMBRE 2021 ATTIVAZIONE TAPROOT AL BLOCCO 70963
+ 2<br><a href="https://blockstream.info/tx/b53e3bc5edbb41b34a963ecf67eb04526
+ 6cf841cab73a780940ce6845377f141">LINK EXPLORER</a><br>explorer <a href="htt
+ ps://tinyurl.com/2x63b765">https://tinyurl.com/2x63b765</a>&nbsp\;<br><br>C
+ reato MOLTO prima del lock-in Taproot\, per non parlare dell'attivazione\, 
+ l'output n. 0 di questa transazione è il primo output P2TR in assoluto. È s
+ tato creato da Matthew Zipkin (<a href="https://twitter.com/matthewzipkin" 
+ id="ow7732" __is_owner="true">LINK TWITTER</a>&nbsp\;= <a href="https://bit
+ .ly/3plUjis" id="ow7742" __is_owner="true">https://bit.ly/3plUjis</a>) per 
+ testare il supporto di invio per bech32 v1. È interessante notare che quest
+ o output\, insieme ad altri 3 output P2TR pre-attivazione\, è stato anche s
+ peso prima dell'attivazione in <a href="https://blockstream.info/tx/b10c007
+ c60e14f9d087e0291d4d0c7869697c6681d979c6639dbd960792b4d41" id="ow7746" __is
+ _owner="true">LINK</a>&nbsp\;= <a href="https://bit.ly/3szhOGZ" id="ow7759"
+  __is_owner="true">https://bit.ly/3szhOGZ</a>\, che richiedeva un coordinam
+ ento speciale con F2Pool.<br><br>Dettaglio tx: Questa interessante transazi
+ one <a href="https://blockstream.info/tx/b10c007c60e14f9d087e0291d4d0c78696
+ 97c6681d979c6639dbd960792b4d41" id="ow7763" __is_owner="true">LINK</a>&nbsp
+ \;=&nbsp\;<a href="https://bit.ly/3CaNMfT" id="ow7773" __is_owner="true">ht
+ tps://bit.ly/3CaNMfT</a>&nbsp\;esiste nella blockchain solo grazie al coord
+ inamento speciale con F2Pool. Poiché questa transazione spende gli output P
+ ay-to-Taproot e poiché è stata creata prima dell'attivazione di Taproot\, e
+ ra considerata "non standard" e non sarebbe stata inoltrata attraverso la r
+ ete Bitcoin\, nonostante fosse tecnicamente valida. Pertanto\, come dimostr
+ azione tecnica\, <a href="https://b10c.me">https://b10c.me</a> si è coordin
+ ato con F2Pool per estrarre questa transazione non standard\, in cui gli ou
+ tput di P2TR erano effettivamente output che chiunque può spendere.</html-b
+ lob>
+LAST-MODIFIED:20220227T103759Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TAPROOT #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211115
+DTEND;VALUE=DATE:20211116
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:6061adhfbqeee1gd1ufd25422u@google.com
+CREATED:20220222T202055Z
+DESCRIPTION:<html-blob><u></u>15.11.2010<u></u><br><u></u>Questa è una dell
+ e 2 transazioni "coinbase duplicate".&nbsp\;Un primo bug di bitcoin (risolt
+ o da&nbsp\;<a href="https://github.com/bitcoin/bips/blob/master/bip-0030.me
+ diawiki" id="ow7945" __is_owner="true">BIP30</a>&nbsp\;LINK = <a href="http
+ s://bit.ly/3IuiUZR" id="ow7955" __is_owner="true">https://bit.ly/3IuiUZR</a
+ >) consentiva transazioni coinbase identiche: un duplicato più recente sovr
+ ascriverebbe le copie più vecchie.&nbsp\;Questa transazione è stata la tran
+ sazione coinbase per il&nbsp\;<a href="https://blockstream.info/block/00000
+ 000000271a2dc26e7667f8419f2e15416dc6955e5a6c6cdf3f2574dd08e" id="ow7959" __
+ is_owner="true">Blocco #91.722</a>&nbsp\; (LINK =&nbsp\;<a href="https://bi
+ t.ly/3Iv2ala" id="ow7969" __is_owner="true">https://bit.ly/3Iv2ala</a>) e\,
+  circa 16 ore dopo\, per&nbsp\;<a href="https://blockstream.info/block/0000
+ 0000000743f190a18c5577a3c2d2a1f610ae9601ac046a38084ccb7cd721" id="ow7973" _
+ _is_owner="true">il Blocco #91.880</a>&nbsp\;(LINK =&nbsp\;<a href="https:/
+ /bit.ly/33UOHEe" id="ow7983" __is_owner="true">https://bit.ly/33UOHEe</a>).
+ &nbsp\;Anche i 50 BTC rivendicati come coinbase per il blocco 91.722 sono s
+ tati sovrascritti e persi.<br><br><a href="https://bitcoin.stackexchange.co
+ m/questions/38994/will-there-be-21-million-bitcoins-eventually/38998#38998"
+  id="ow7987" __is_owner="true">LINK SPIEGAZIONE</a>&nbsp\;=&nbsp\;<a href="
+ https://bit.ly/3pl4La3" id="ow7998" __is_owner="true">https://bit.ly/3pl4La
+ 3</a><u></u></html-blob>
+LAST-MODIFIED:20220227T103954Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TX DUPLICATA #economia #tecnologia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211116
+DTEND;VALUE=DATE:20211117
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:73kdvjkac9q7mahkmfgefu4unt@google.com
+CREATED:20220222T202727Z
+DESCRIPTION:<html-blob>16.11.2011<br>Questa transazione di novembre 2011 sp
+ ende 11 UTXO del valore di 50.000 BTC per creare un singolo UTXO di 550.000
+  BTC.&nbsp\;Questa è attualmente la più grande transazione di output.<br><b
+ r><a href="https://blockstream.info/tx/29a3efd3ef04f9153d47a990bd7b048a4b2d
+ 213daaa5fb8ed670fb85f13bdbcf" id="ow8170" __is_owner="true">LINK EXPLORER</
+ a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3plkyW2">https://bit.ly/3plkyW2</a
+ ><br><a href="https://blockchair.com/bitcoin/transactions?s=output_total(de
+ sc)#" id="ow8180" __is_owner="true">LINK BLOCKCHAIR</a>&nbsp\;con l'elenco 
+ delle tx in ordine di transato =&nbsp\;<a href="https://bit.ly/3tdNxMN" id=
+ "ow8190" __is_owner="true">https://bit.ly/3tdNxMN</a></html-blob>
+LAST-MODIFIED:20220227T104043Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:LA PIU' GRANDE TRANSAZIONE #tecnologia #economia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221122
+DTEND;VALUE=DATE:20221123
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:25m4uj64u2p761qtas4hthrjrd@google.com
+CREATED:20220225T102017Z
+DESCRIPTION:<html-blob>22 novembre 1992<br><br><b>Timothy C. May</b>&nbsp\;
+ è stato uno scrittore tecnico e politico americano\, ingegnere elettronico 
+ e scienziato senior presso&nbsp\;Intel.&nbsp\;May è stato anche il fondator
+ e del movimento&nbsp\;<a href="https://en.wikipedia.org/wiki/Crypto-anarchi
+ st">cripto-anarchico</a>&nbsp\;.&nbsp\;<sup><a href="https://en.wikipedia.o
+ rg/wiki/Timothy_C._May#cite_note-2" id="ow8362" __is_owner="true">LINK</a><
+ /sup>&nbsp\;<a href="https://bit.ly/35hJ8QV">https://bit.ly/35hJ8QV</a><br>
+ <p>May era un sostenitore del&nbsp\;libertarismo&nbsp\;e della privacy su I
+ nternet. Era un membro fondatore della&nbsp\;<a href="https://en.wikipedia.
+ org/wiki/Electronic_mailing_list">mailing list elettronica&nbsp\;</a><a hre
+ f="https://en.wikipedia.org/wiki/Cypherpunk" id="ow8372" __is_owner="true">
+ Cypherpunks</a>&nbsp\;(LINK =<a href="https://bit.ly/3vnCT8Q" id="ow8385" _
+ _is_owner="true">&nbsp\;https://bit.ly/3vnCT8Q</a>)&nbsp\;&nbsp\;ed era sta
+ to uno dei più voluminosi contributori .&nbsp\;Ha scritto ampiamente sulla 
+ crittografia e sulla privacy dagli anni '90 al 2003.</p><p>May ha condotto 
+ una vita solitaria.&nbsp\;Il suo necrologio&nbsp\;<i><a href="https://en.wi
+ kipedia.org/wiki/The_New_York_Times" id="ow8389" __is_owner="true">del New 
+ York Times</a></i>&nbsp\;(LINK =&nbsp\;<a href="https://bit.ly/3HlhdfT" id=
+ "ow8399" __is_owner="true">https://bit.ly/3HlhdfT</a>) osservava: "Ha scrit
+ to spesso di armarsi e di aspettare che gli agenti del governo si facessero
+  vivo. Dopo che i Cypherpunks sono svaniti all'inizio degli anni 2000\, ha 
+ iniziato a esprimere sentimenti razzisti ad altri gruppi online".</p><p><i>
+ Reason Magazine</i>&nbsp\;lo ha descritto come una "significativa influenza
+  sia su bitcoin che su WikiLeaks" nel loro necrologio.&nbsp\;<sup><a href="
+ https://en.wikipedia.org/wiki/Timothy_C._May#cite_note-13" id="ow8403" __is
+ _owner="true">LINK</a>&nbsp\;</sup><a href="https://bit.ly/3pkMhGu" id="ow8
+ 413" __is_owner="true">https://bit.ly/3pkMhGu</a></p><br><br><a href="https
+ ://www.activism.net/cypherpunk/crypto-anarchy.html" id="ow8420" __is_owner=
+ "true">LINK - IL MANIFESTO DEL CRYPTO ANARCHICO | 1992</a>&nbsp\;=<a href="
+ https://bit.ly/356OyOV">&nbsp\;https://bit.ly/356OyOV</a><br><a href="http:
+ //groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/cypher
+ nomicon/CP-FAQ" id="ow8430" __is_owner="true"><u>LINK - CYPHERNOMICON | 199
+ 4</u></a>&nbsp\;=<a href="https://bit.ly/3Hq4cBO" id="ow8440" __is_owner="t
+ rue">&nbsp\;https://bit.ly/3Hq4cBO</a></html-blob>
+LAST-MODIFIED:20220227T104323Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Crypto Anarchist Manifesto\, Timothy C. May #politica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221128
+DTEND;VALUE=DATE:20221129
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:0cs9kr45lkh7nm6a6sti7309op@google.com
+CREATED:20220221T203753Z
+DESCRIPTION:<html-blob>28 NOVEMBRE 2012 AVVIENE IL PRIMO HALVING &gt\; LA C
+ OINBASE PASSA DA 50 A 25<br><a href="https://blockstream.info/block/0000000
+ 00000048b95347e83192f69cf0366076336c639f9b7228e9ba171342e" id="ow8616" __is
+ _owner="true">LINK EXPLORER</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3hoqE
+ 3O" id="ow8627" __is_owner="true">https://bit.ly/3hoqE3O</a></html-blob><br
+ ><html-blob><a href="https://github.com/bitcoin/bitcoin/blob/master/src/val
+ idation.cpp#L1240" id="ow8612" __is_owner="true">LINK GitHub</a>&nbsp\;=&nb
+ sp\;<a href="https://bit.ly/3JWGY84" id="ow8640" __is_owner="true">https://
+ bit.ly/3JWGY84</a></html-blob>
+LAST-MODIFIED:20220227T104417Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PRIMO HALVING #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231128
+DTEND;VALUE=DATE:20231129
+DTSTAMP:20220307T200522Z
+UID:0cs9kr45lkh7nm6a6sti7309op@google.com
+RECURRENCE-ID;VALUE=DATE:20231128
+CREATED:20220221T203753Z
+DESCRIPTION:<html-blob>28 NOVEMBRE 2012 AVVIENE IL PRIMO HALVING &gt\; LA C
+ OINBASE PASSA DA 50 A 25<br><a href="https://blockstream.info/block/0000000
+ 00000048b95347e83192f69cf0366076336c639f9b7228e9ba171342e" id="ow8616" __is
+ _owner="true">LINK EXPLORER</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3hoqE
+ 3O" id="ow8627" __is_owner="true">https://bit.ly/3hoqE3O</a></html-blob><br
+ ><html-blob><a href="https://github.com/bitcoin/bitcoin/blob/master/src/val
+ idation.cpp#L1240" id="ow8612" __is_owner="true">LINK GitHub</a>&nbsp\;=&nb
+ sp\;<a href="https://bit.ly/3JWGY84" id="ow8640" __is_owner="true">https://
+ bit.ly/3JWGY84</a></html-blob>
+LAST-MODIFIED:20220227T104417Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PRIMO HALVING #tecnologia 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221229
+DTEND;VALUE=DATE:20221230
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:3mols266gu9e9qp5411d7sos9a@google.com
+CREATED:20220225T092612Z
+DESCRIPTION:<html-blob><p>&nbsp\;29 DICEMBRE\, 2005</p><p>Nel 1998\, Szabo 
+ ha progettato un meccanismo per una valuta digitale decentralizzata che ha 
+ chiamato "bit gold".&nbsp\;<sup><a href="https://en.wikipedia.org/wiki/Nick
+ _Szabo#cite_note-PeckBitcoin2012-13" id="ow8858" __is_owner="true">LINK</a>
+ &nbsp\;</sup><a href="https://bit.ly/3phKRfW">https://bit.ly/3phKRfW</a><su
+ p>&nbsp\;</sup><sup><a href="https://en.wikipedia.org/wiki/Nick_Szabo#cite_
+ note-14" id="ow8871" __is_owner="true">LINK</a></sup>&nbsp\;<a href="https:
+ //bit.ly/33ZuVHS" id="ow8881" __is_owner="true">https://bit.ly/33ZuVHS</a> 
+ Bit gold non è mai stato implementato\, ma è stato definito "un precursore 
+ diretto&nbsp\;dell'architettura&nbsp\;<a href="https://en.wikipedia.org/wik
+ i/Bitcoin">Bitcoin ".&nbsp\;</a><sup><a href="https://en.wikipedia.org/wiki
+ /Nick_Szabo#cite_note-15" id="ow8885" __is_owner="true">LINK</a>&nbsp\;</su
+ p><a href="https://bit.ly/35xvngG" id="ow8895" __is_owner="true">https://bi
+ t.ly/35xvngG</a></p><p>Nella struttura di Szabo\, un partecipante dedicherà
+  la potenza del computer alla risoluzione di&nbsp\;<a href="https://en.wiki
+ pedia.org/wiki/Proof-of-work_system" id="ow8899" __is_owner="true">enigmi c
+ rittografici</a>&nbsp\;(LINK =<a href="https://bit.ly/3soPAhK" id="ow8909" 
+ __is_owner="true">&nbsp\;https://bit.ly/3soPAhK</a>)&nbsp\;.&nbsp\;In una r
+ ete BITGOLD\, gli enigmi risolti sarebbero stati inviati al registro pubbli
+ co&nbsp\;<a href="https://en.wikipedia.org/wiki/Byzantine_fault_tolerance" 
+ id="ow8913" __is_owner="true">BFT</a>&nbsp\;(LINK =&nbsp\;<a href="https://
+ bit.ly/3IrfWVX" id="ow8926" __is_owner="true">https://bit.ly/3IrfWVX</a>) e
+  assegnati alla&nbsp\;<a href="https://en.wikipedia.org/wiki/Public-key_cry
+ ptography">chiave pubblica</a>&nbsp\;del risolutore.&nbsp\;Ogni soluzione d
+ iventerebbe parte della prossima sfida\, creando una catena crescente di nu
+ ove proprietà.&nbsp\;Questo aspetto del sistema ha fornito alla rete un mod
+ o per verificare e marcare nuove monete\, perché a meno che la maggioranza 
+ delle parti non avesse accettato nuove soluzioni\, non avrebbero potuto ini
+ ziare il puzzle successivo.&nbsp\;<sup><a href="https://en.wikipedia.org/wi
+ ki/Nick_Szabo#cite_note-TsoSch2015-16" id="ow8930" __is_owner="true">LINK</
+ a>&nbsp\;</sup><a href="https://bit.ly/3BVqH0p">https://bit.ly/3BVqH0p</a><
+ sup>&nbsp\;</sup><sup><a href="https://en.wikipedia.org/wiki/Nick_Szabo#cit
+ e_note-17" id="ow8940" __is_owner="true">LINK</a>&nbsp\;</sup><a href="http
+ s://bit.ly/3BUEc0q" id="ow8950" __is_owner="true">https://bit.ly/3BUEc0q</a
+ ></p><p>Quando tenti di progettare transazioni con una moneta digitale\, ti
+  imbatti nel "&nbsp\;problema della&nbsp\;<a href="https://en.wikipedia.org
+ /wiki/Double-spending" id="ow8954" __is_owner="true">doppia spesa</a>&nbsp\
+ ;(LINK =&nbsp\;<a href="https://bit.ly/3taGRyV" id="ow8970" __is_owner="tru
+ e">https://bit.ly/3taGRyV</a>) Una volta creati i dati\, riprodurli è una s
+ emplice questione di copia e incolla.&nbsp\;La maggior parte delle valute d
+ igitali risolve il problema cedendo un po' di controllo a un'autorità centr
+ ale\, che tiene traccia del saldo di ciascun conto.&nbsp\;Questa era una so
+ luzione inaccettabile per Szabo.&nbsp\;"Stavo cercando di imitare il più fe
+ delmente possibile nel cyberspazio le caratteristiche di sicurezza e fiduci
+ a dell'oro\, e la principale tra queste è che non dipende da un'autorità ce
+ ntrale fidata".&nbsp\;<sup><a href="https://en.wikipedia.org/wiki/Nick_Szab
+ o#cite_note-PeckBitcoin2012-13" id="ow8974" __is_owner="true">LINK</a>&nbsp
+ \;</sup><a href="https://bit.ly/3hkYdUa" id="ow8984" __is_owner="true">http
+ s://bit.ly/3hkYdUa</a></p><p><a href="https://nakamotoinstitute.org/bit-gol
+ d/" id="ow8988" __is_owner="true">LINK NAKAMOTO INSTITUTE</a>&nbsp\;=&nbsp\
+ ;<a href="https://bit.ly/3soDV2u" id="ow8998" __is_owner="true">https://bit
+ .ly/3soDV2u</a></p></html-blob>
+LAST-MODIFIED:20220227T104844Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BITGOLD\, NICK SZABO #tecnologia #economia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221230
+DTEND;VALUE=DATE:20221231
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:4ju49d1giadjt9d8lo09e957fb@google.com
+CREATED:20220222T213047Z
+DESCRIPTION:<html-blob>30.12.2017<br>Questa transazione coinbase non riesce
+  completamente a raccogliere la ricompensa del blocco.&nbsp\;<br>12\,5 BTC 
+ sono stati persi.<br><br><a href="https://blockstream.info/tx/9bf8853b3a823
+ bbfa1e54017ae11a9e1f4d08a854dcce9f24e08114f2c921182" id="ow9167" __is_owner
+ ="true">LINK EXPLORER</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3JXE7vF">ht
+ tps://bit.ly/3JXE7vF</a><br><a href="https://bitcoin.stackexchange.com/ques
+ tions/67009/can-someone-explain-this-weird-mining-activity/67012#67012" id=
+ "ow9177" __is_owner="true">LINK APPROFONDIMENTO</a>&nbsp\;=&nbsp\;<a href="
+ https://bit.ly/3vlcNDB" id="ow9187" __is_owner="true">https://bit.ly/3vlcND
+ B</a></html-blob>
+LAST-MODIFIED:20220227T104929Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:COMMISSIONE PERSA #tecnologia #economia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221031
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:2d5hgovq65gkcod9chb0sloi5d@google.com
+CREATED:20220221T211851Z
+DESCRIPTION:<html-blob><u></u><u></u><u></u><u></u><u></u><u></u>31 OTTOBRE
+  2008\, LA NASCITA UFFICIALE DEL PROGETTO BITCOIN CON LA PUBBLICAZIONE DELL
+ 'ARTICOLO SULLA MAILING LIST<br>Questa transazione codifica il PDF del whit
+ epaper Bitcoin in 945 dei suoi 947 output<br><br><a href="https://blockstre
+ am.info/tx/54e48e5f5c656b26c3bca14a8c95aa583d07ebe84dde3b7dd4a78f4e4186e713
+ ">LINK EXPLORER</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3M9FysE">https://
+ bit.ly/3M9FysE</a><br><a href="https://bitcoin.stackexchange.com/questions/
+ 35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-
+ n-multisi">LINK APPROFONDIMENTO</a>&nbsp\;=&nbsp\;<a href="https://bit.ly/3
+ 5s303D">https://bit.ly/35s303D</a></html-blob><br><html-blob><u></u>LINK CH
+ IAVE PGP DI SATOSHI NAKAMOTO (fonte Nakamoto Institute sito web =&nbsp\;<a 
+ href="https://bit.ly/3srDoNx" id="ow9404" __is_owner="true">https://bit.ly/
+ 3srDoNx</a>) =<a href="https://bit.ly/3thpSek" id="ow9394" __is_owner="true
+ ">&nbsp\;https://bit.ly/3thpSek<br></a><u></u><br><u></u>NEGLI ALLEGATI:&nb
+ sp\;<u></u><br><ul><li><u></u>PDF whitepaper + formato HD da stampare (cont
+ ributo /anonimo/ )<u></u></li><li><u></u>LETTURA AUDIO DEL PAPER in lingua 
+ italiana (contributo: biblioteca libertaria\, canale telegram)<u></u></li><
+ li><u></u>IL BITCOIN STANDARD in italiano\, versione .epub (contributo:&nbs
+ p\;<u></u>biblioteca libertaria\, canale telegram |&nbsp\;Saifedean Ammous 
+ AUTORE <a href="https://twitter.com/saifedean">https://twitter.com/saifedea
+ n</a> | UsemLab LIBRERIA<a href="https://shop.usemlab.com/"> https://shop.u
+ semlab.com/</a>)</li></ul><u></u><u></u><br><u></u>(alcuni dati di questo e
+ vento sono stati aggiunti da un altro utente)<u></u><u></u><u></u><u></u><u
+ ></u><u></u></html-blob>
+LAST-MODIFIED:20220227T184921Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bitcoin White Paper #tecnologia #economia #politica 
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=bitcoin whitepaper.pdf;FMTTYPE=application/pdf:https://driv
+ e.google.com/open?id=1AN2hGU2ct2ORYzuZkmOqW1VbjJWO3AtI&authuser=0
+ATTACH;FILENAME=Il_Bitcoin_Standard_L'alternativa_decentralizzata_alle_banc
+ he_centrali.epub;FMTTYPE=application/epub+zip:https://drive.google.com/open
+ ?id=1BQrjjyyRbkQqRnYyoIQeQ4VmknoKruS5&authuser=0
+ATTACH;FILENAME=White_Paper_Bitcoin_un_sistema_di_moneta_elettronica_peer_t
+ o_peer.mp3;FMTTYPE=audio/mpeg:https://drive.google.com/open?id=1DLhzPpWsThY
+ MqI1PBOo3GLCuZrzTmV-7&authuser=0
+ATTACH;FILENAME=bitcoin whitepaper 35x50cm.pdf;FMTTYPE=application/pdf:http
+ s://drive.google.com/open?id=18szg-CDodRDGUmn-Pgsa9SfjMLu7Bqs5&authuser=0
+ATTACH;FILENAME=bitcoin-whitepaper-poster.pdf;FMTTYPE=application/pdf:https
+ ://drive.google.com/open?id=1WqtXZqatvVVbzf1N6bMcnCo7ZFpebhVB&authuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220207
+DTEND;VALUE=DATE:20220208
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:62a1rm8a0upemlo44l7nic5hqc@google.com
+CREATED:20220301T154216Z
+DESCRIPTION:Il 7 febbraio 2014\, Mt. Gox ha disabilitato i prelievi di bitc
+ oin dagli account degli utenti\, impedendo di accedervi. Un paio di settima
+ ne dopo l'exchange ha annunciato l'intenzione di dichiarare bancarotta dopo
+  aver riscontrato problemi tecnici che hanno consentito la "perdita o furto
+ " di 744.000 monete
+LAST-MODIFIED:20220301T154216Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NOT YOUR KEYS\, NOT YOURS BITCOIN #economia #tecnologia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220822
+DTEND;VALUE=DATE:20220823
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:4182k4u2rh1joude305cqffmpg@google.com
+CREATED:20220302T143944Z
+DESCRIPTION:IL 22 AGOSTO 2013\, GREGORY MAXWELL (BITCOIN DEVELOPER E SUCCES
+ SIVAMENTE CO-FOUNDER E CTO DI BLOCKSTREAM) SUGGERISCE UN TIPO DI TRANSAZION
+ E BITCOIN CONOSCIUTA COL NOME "CoinJoin".<br>NEL THREAD VIENE DISCUSSA LA N
+ ATURA DI QUESTO TIPO DI TRANSAZIONE E IL LIVELLO DI PRIVACY OTTENIBILE SENZ
+ A MODIFICA AL PROTOCOLLO. <br><br>LINK BITCOIN TALK: <a href="https://bitco
+ intalk.org/index.php?topic=279249.0">https://bitcointalk.org/index.php?topi
+ c=279249.0</a><br>LINK GITHUB:<a href="https://github.com/gmaxwell"> https:
+ //github.com/gmaxwell</a>
+LAST-MODIFIED:20220302T143944Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:COINJOIN #tecnologia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221003
+DTEND;VALUE=DATE:20221004
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:40qan3nafc4qhb68lkmfll2i2o@google.com
+CREATED:20220302T144120Z
+DESCRIPTION:Il 3 ottobre 2013 Silk Road fu chiuso dall'FBI. Ai primi di nov
+ embre ne fu annunciata la riapertura da parte dello pseudonimo Dread Pirate
+  Roberts\, nonostante l'FBI avesse arrestato la persona che secondo loro si
+  celava dietro a quel nome. Il 6 novembre 2014 Silk Road fu chiuso definiti
+ vamente dall'FBI. Il 30 maggio 2015 Ross Ulbricht\, il creatore di Silk Roa
+ d sotto lo pseudonimo di Dread Pirate Roberts\, è stato condannato in primo
+  grado all'ergastolo per i reati di associazione per delinquere\, frode inf
+ ormatica\, distribuzione di false identità\, riciclaggio di denaro\, traffi
+ co di droga\, traffico di droga su internet e cospirazione per trafficare d
+ roga. Ulbricht era stato arrestato grazie ad agenti FBI sotto copertura inf
+ iltrati nella sua piattaforma. Si dice che la sua fortuna di 26.000 Bitcoin
+  sia stata sequestrata 
+LAST-MODIFIED:20220302T144120Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SILK ROAD #economia #politica 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220729
+DTEND;VALUE=DATE:20220730
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:6tdltqlplciukvbv4j9nmpgom3@google.com
+CREATED:20220302T144407Z
+DESCRIPTION:NASCITA DEL PRIMO HARDWARE WALLET.&nbsp\;<br>Dopo la conferenza
+  Bitcoin a Praga nel 2011 due programmatori e appassionati di criptovalute\
+ , Pavol "Stick" Rusnák e Marek "Slush" Palatinus\, iniziarono a pensare a u
+ n piccolo computer monouso che avrebbe mantenuto le chiavi private protette
+  in un ambiente isolato. NACQUE IL PRIMO PROTOTIPO DI TREZOR (ORIGINARIAMEN
+ TE CHIAMATO PIGLET) <br>Trezor One ufficialmente rilasciato il 29 luglio 20
+ 14 <br><br>LINK DI APPROFONDIMENTO:<a href="https://bit.ly/3C9JBR7"> https:
+ //bit.ly/3C9JBR7 </a><br><br><u><a href="https://satoshilabs.com/" id="ow20
+ 18" __is_owner="true">https://satoshilabs.com/</a></u><br><a href="https://
+ github.com/trezor">https://github.com/trezor</a><br><br>SI RINGRAZIA: <a hr
+ ef="https://www.hardwarewallet.it">https://www.hardwarewallet.it</a><br>PER
+  LA COLLABORAZIONE E CREAZIONE DI QUESTO EVENTO&nbsp\;
+LAST-MODIFIED:20220302T144407Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HARDWARE WALLET #tecnologia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220115
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:6uv07mqo1jfoor4eit2v2hmk05@google.com
+CREATED:20220302T144653Z
+DESCRIPTION:14 gennaio 2016 <br>"The Bitcoin Lightning Network: Scalable Of
+ f-Chain Instant Payments" PAPER<br>LAYER DI LIVELLO 2 DELLA BLOCKCHAIN BITC
+ OIN PER PAGAMENTI ISTANTANEI A FEE QUASI NULLE.<br><br>ALLEGATI:<br><ul><li
+ >PDF&nbsp\;The Bitcoin Lightning Network:Scalable Off-Chain Instant Payment
+ s WHITE PAPER</li></ul>
+LAST-MODIFIED:20220302T144653Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Bitcoin Lightning Network #tecnologia #economia
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=lightning-network-paper.pdf;FMTTYPE=application/pdf:https:/
+ /drive.google.com/open?id=1KoVfmyIf0DDU38l1jN10qQnfhsWBNQDI&authuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221101
+DTEND;VALUE=DATE:20221102
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:4dp7u082rbktgaddaqgm5nhaf1@google.com
+CREATED:20220301T160200Z
+DESCRIPTION:<html-blob><u></u><u></u>1 novembre 2013<br>Viene costituita a 
+ Londra la società <a href="http://CEX.IO">CEX.IO</a><br>La società è colleg
+ ata al famoso Pool <a href="http://GHASH.IO">GHASH.IO</a> che ha operato da
+ l 2013 al 2016.&nbsp\;Il pool ha acquisito notorietà per aver controllato b
+ revemente oltre il 51% della potenza di calcolo di bitcoin nel 2014. Nel 20
+ 15\, il pool di GHash.io é sceso a meno del 2% dell'hashrate totale.&nbsp\;
+ <br><br>Scopri quanto costerebbe oggi un 51% attack sulla rete Bitcoin a qu
+ esto link: <a href="https://gobitcoin.io/tools/cost-51-attack/" id="ow2496"
+  __is_owner="true">https://gobitcoin.io/tools/cost-51-attack/</a><br><br>AL
+ LEGATI:&nbsp\;<br><ul><li>PDF ATTO COSTITUTIVO DELLA SOCIETA'</li><li>PDF "
+ 51% DISCUSSION - <a href="http://GHASH.IO">GHASH.IO</a>"</li><li>IMMAGINE D
+ istribuzione di Bitcoin Block Mining il 13 giugno 2014.</li></ul><u></u><u>
+ </u></html-blob>
+LAST-MODIFIED:20220302T144800Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:51% ATTACK #tecnologia #curiosità
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=GHASH.IO.pdf;FMTTYPE=application/pdf:https://drive.google.c
+ om/open?id=13NecrxPc8DXhjKPxIgc_dgsVzUz63jch&authuser=0
+ATTACH;FILENAME=51-discussion.pdf;FMTTYPE=application/pdf:https://drive.goo
+ gle.com/open?id=1B4GlOgTtEbLOJDnl3FQep9jFXHtRtZSU&authuser=0
+ATTACH;FILENAME=10.1177_1461444818786220-fig2.gif;FMTTYPE=image/gif:https:/
+ /drive.google.com/open?id=1HpnlZyvxL5xU7Te-cpkwDHncUPRIrmWS&authuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220920
+DTEND;VALUE=DATE:20220921
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:1lm88vv5hv00ll6jqi766ifv7u@google.com
+CREATED:20220303T103627Z
+DESCRIPTION:La prima versione alpha di Tor fu lanciata il 20 settembre&nbsp
+ \;2002&nbsp\;da Syverson e altri collaboratori.<br><br>Il nucleo di Tor fu 
+ sviluppato a metà degli&nbsp\;anni novanta&nbsp\;dal matematico&nbsp\;Paul 
+ Syverson&nbsp\;(LINK&nbsp\;<a href="https://bit.ly/3CcsVsA" id="ow553" __is
+ _owner="true">https://bit.ly/3CcsVsA</a>) e da Micheal Reed per la&nbsp\;US
+  Naval Research Laboratory&nbsp\;(LINK <a href="https://bit.ly/35KEydO" id=
+ "ow735" __is_owner="true">https://bit.ly/35KEydO</a>)\, con lo scopo di pro
+ teggere le comunicazioni dei servizi segreti statunitensi. Il suo sviluppo 
+ fu continuato da&nbsp\;DARPA&nbsp\;( LINK <a href="https://bit.ly/3puBxFC" 
+ id="ow613" __is_owner="true">https://bit.ly/3puBxFC</a>) nel&nbsp\;1997.&nb
+ sp\;Nel&nbsp\;2004&nbsp\;il codice fu rilasciato con una&nbsp\;licenza libe
+ ra&nbsp\;e la&nbsp\;Electronic Frontier Foundation&nbsp\;(LINK <a href="htt
+ ps://bit.ly/3CcjfxT" id="ow672" __is_owner="true">https://bit.ly/3CcjfxT</a
+ >)\, nel&nbsp\;2006 fu&nbsp\;fondato&nbsp\;The Tor Project&nbsp\;(LINK <a h
+ ref="https://bit.ly/34a6He7" id="ow714" __is_owner="true">https://bit.ly/34
+ a6He7</a>)\, un'associazione senza scopo di lucro responsabile dello svilup
+ po di Tor e dei progetti correlati.
+LAST-MODIFIED:20220303T103627Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TOR PROJECT\, ALPHA #tecnologia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20220602
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:2hneui5dlbfrr9jirc1lt8e4jh@google.com
+CREATED:20220303T104611Z
+DESCRIPTION:1 giugno 1999\nNascita di Napster\, il primo sistema peer-to-pe
+ er di massa.
+LAST-MODIFIED:20220303T104611Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:NAPSTER #tecnologia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221121
+DTEND;VALUE=DATE:20221122
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:184vn6l7dogbgtt22fq3jaavv5@google.com
+CREATED:20220303T105421Z
+DESCRIPTION:21 novembre 2003<br><p><b>The Pirate Bay</b>&nbsp\;(<b>TPB</b>)
+  è un sito di&nbsp\;file sharing&nbsp\;basato sul protocollo di condivision
+ e&nbsp\;BitTorrent&nbsp\;(LINK <a href="https://bit.ly/3vws6tf" id="ow1392"
+  __is_owner="true">https://bit.ly/3vws6tf</a>). Nato in&nbsp\;Svezia\,&nbsp
+ \;creato da&nbsp\;Gottfrid Svartholm\,&nbsp\;Fredrik Neij&nbsp\;e&nbsp\;Pet
+ er Sunde.</p><p>The Pirate Bay si autodefinisce come «Il sito BitTorrent pi
+ ù resistente al mondo»<span style="font-size: 11.6667px\;"> </span>(a parti
+ re dal 2012\, "Il più resistente della galassia...") ed è attualmente class
+ ificato come il 75° sito più visitato al mondo. Secondo il&nbsp\;<i>Los Ang
+ eles Times</i>\, The Pirate Bay è il più grande mediatore al mondo di downl
+ oad illegali e "il membro più visibile di un crescente movimento internazio
+ nale&nbsp\;anti-copyright&nbsp\;o pro pirateria".<span style="font-size: 11
+ .6667px\;"> </span>Il sito non è stato accessibile dal 9 dicembre 2014 a ca
+ usa del sequestro dei server da parte della polizia svedese. In quella data
+ \, sul sito è comparso un contatore che segnava come data di ritorno online
+  il primo febbraio 2015\; il primo febbraio\, come preannunciato\, il sito 
+ torna online.</p><p>Nel&nbsp\;2006&nbsp\;i componenti di&nbsp\;<i>The Pirat
+ e Bay</i>&nbsp\;avevano annunciato di avere l'intenzione di comprare il&nbs
+ p\;principato di Sealand\, messo in vendita dal proprietario\, per poterne 
+ fare un baluardo del p2p libero e legale ma l'anno successivo hanno dovuto 
+ rinunciare all'acquisto e ora sono in cerca di un luogo alternativo.<br></p
+ >
+LAST-MODIFIED:20220303T105421Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:THE PIRATE BAY #tecnologia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220318
+DTEND;VALUE=DATE:20220319
+RRULE:FREQ=YEARLY
+DTSTAMP:20220307T200522Z
+UID:2p3uashfg0cqrtmmp7admto1bb@google.com
+CREATED:20220303T142558Z
+DESCRIPTION:Il 18 marzo 2011\, von NotHaus viene condannato per "fabbricazi
+ one\, possesso e vendita di proprie monete"<br><br>L'&nbsp\;<b>American Lib
+ erty Dollar</b>&nbsp\;(&nbsp\;<b>ALD</b>&nbsp\;) era una&nbsp\;valuta priva
+ ta&nbsp\;prodotta negli Stati Uniti. La valuta è stata emessa in monete\, c
+ ertificati d'oro e d'argento e valuta elettronica (eLD).&nbsp\;I certificat
+ i sono "ricevute" per oro e argento reali di proprietà del portatore. La va
+ luta è stata creata da&nbsp\;Bernard von NotHaus.<br>Il metallo è stato imm
+ agazzinato presso la&nbsp\;Sunshine Minting&nbsp\;a&nbsp\;Coeur d'Alene\, I
+ daho\,&nbsp\;prima di un raid del novembre 2007 da parte del&nbsp\;Federal 
+ Bureau of Investigation&nbsp\;(FBI) e dei&nbsp\;servizi segreti statunitens
+ i&nbsp\;(USSS).<br>Il 14 novembre 2007 Bernard von NotHaus\, il proprietari
+ o di Liberty Services\, avvisa clienti e sostenitori riferendo che il gover
+ no americano aveva rubato tutto l'oro\, l'argento e il platino e quasi due 
+ tonnellate di&nbsp\;dollari&nbsp\;"Ron Paul"\, oltre a sequestrare computer
+ \, file e bloccare i conti bancari di Liberty Dollar.<br><br>ALLEGATI:<br><
+ ul><li>Brochure PDF 2009 Liberty Dollar</li><li>Mandato di sequestro PDF</l
+ i><li>Documento penale del tribunale distrettuale della Carolina del Nord P
+ DF<br></li><li>Immagine "Tagli disponibili Liberty Dollar"</li></ul><br><br
+ >LINK DI APPROFONDIMENTO:<br><ul><li><a href="https://bit.ly/3HCRRKQ">https
+ ://bit.ly/3HCRRKQ</a></li><li><a href="https://bit.ly/3pzXcMx">https://bit.
+ ly/3pzXcMx</a></li><li><a href="https://bit.ly/3sBOVtp" id="ow2575" __is_ow
+ ner="true">https://bit.ly/3sBOVtp</a></li></ul>
+LAST-MODIFIED:20220303T142558Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AMERICAN LIBERTY DOLLAR #economia
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=Liberty_Dollar.jpg;FMTTYPE=image/jpeg:https://drive.google.
+ com/open?id=1-tz_4gHekqfi0I5AaeGLX94pVn-V-aAg&authuser=0
+ATTACH;FILENAME=seizure_warrant_20071114.pdf;FMTTYPE=application/pdf:https:
+ //drive.google.com/open?id=1YEqmGamYJwiGRlJTjMAQ1dTglNlwscYz&authuser=0
+ATTACH;FILENAME=VonNotHausOrder-Nov-10-2014.pdf;FMTTYPE=application/pdf:htt
+ ps://drive.google.com/open?id=1tEQv40TDbXawsN51PjT1CfUloL-MCR2g&authuser=0
+ATTACH;FILENAME=color-brochure.pdf;FMTTYPE=application/pdf:https://drive.go
+ ogle.com/open?id=1wm7w7cCd2XPEF7CRyns6u09_yezpm9Cs&authuser=0
+END:VEVENT
+END:VCALENDAR
