@@ -6,7 +6,10 @@ File in fomato .txt e .ics
 https://calendar.google.com/calendar/embed?src=3geatsteiu4krb6ojcb86f1hf0%40group.calendar.google.com&ctz=Europe%2FRome
 
 La visualizzazione del calendario in questo formato è piuttosto sgradevole, cliccando su un evento particolare e poi cliccando di nuovo su "altri dettagli" potrete vedere il calendario con una grafica diversa e compariranno anche gli allegati dell'evento
+<img width="1218" alt="Schermata 2022-05-04 alle 19 28 18" src="https://user-images.githubusercontent.com/100480715/166745907-f620f202-fb72-48b5-aa5f-c3f1ba87a2f4.png">
+<img width="904" alt="Schermata 2022-05-04 alle 19 30 32" src="https://user-images.githubusercontent.com/100480715/166745948-9855e389-f08d-4b89-b241-18f30895293b.png">
 ***
+
 
 Progetto di divulgazione Bitcoin per appassionati e/o esperti del settore. E' gradito il supporto di tutti.
 ***
