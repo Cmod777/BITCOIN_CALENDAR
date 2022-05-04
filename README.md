@@ -1,6 +1,12 @@
 # BITCOIN_CALENDAR
 Calendario bitcoin in lingua italiana, progetto compatibile con gestori di calendari. 
 File in fomato .txt e .ics
+***
+# LINK AL CALENDARIO WEB
+https://calendar.google.com/calendar/embed?src=3geatsteiu4krb6ojcb86f1hf0%40group.calendar.google.com&ctz=Europe%2FRome
+
+La visualizzazione del calendario in questo formato è piuttosto sgradevole, cliccando su un evento particolare e poi cliccando di nuovo su "altri dettagli" potrete vedere il calendario con una grafica diversa e compariranno anche gli allegati dell'evento
+***
 
 Progetto di divulgazione Bitcoin per appassionati e/o esperti del settore. E' gradito il supporto di tutti.
 ***
